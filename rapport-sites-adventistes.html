@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rapport – Sites Adventistes & Proposition Troyes</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #f4f6f9; color: #1a1a2e; }
+
+  header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+    color: white; padding: 2rem 1.5rem; text-align: center;
+  }
+  header h1 { font-size: 1.4rem; font-weight: 700; letter-spacing: 0.5px; }
+  header p { font-size: 0.85rem; opacity: 0.75; margin-top: 0.4rem; }
+  .badge {
+    display: inline-block; background: #e94560; color: white;
+    font-size: 0.7rem; padding: 2px 10px; border-radius: 20px;
+    margin-top: 0.6rem; font-weight: 600; letter-spacing: 1px;
+  }
+
+  nav {
+    display: flex; gap: 0.5rem; padding: 1rem 1.2rem;
+    overflow-x: auto; background: white;
+    border-bottom: 2px solid #e0e4ec;
+    position: sticky; top: 0; z-index: 10;
+  }
+  nav button {
+    white-space: nowrap; border: none; border-radius: 20px;
+    padding: 0.4rem 1rem; font-size: 0.78rem; font-weight: 600;
+    cursor: pointer; background: #f0f2f7; color: #555; transition: all 0.2s;
+  }
+  nav button.active, nav button:hover {
+    background: #0f3460; color: white;
+  }
+
+  .section { display: none; padding: 1.2rem; }
+  .section.active { display: block; }
+
+  .card {
+    background: white; border-radius: 12px;
+    padding: 1rem 1.2rem; margin-bottom: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    border-left: 4px solid #0f3460;
+  }
+  .card.green { border-left-color: #27ae60; }
+  .card.orange { border-left-color: #e67e22; }
+  .card.red { border-left-color: #e94560; }
+  .card.purple { border-left-color: #8e44ad; }
+
+  .card h3 { font-size: 0.95rem; font-weight: 700; margin-bottom: 0.3rem; color: #0f3460; }
+  .card .url { font-size: 0.72rem; color: #888; font-family: monospace; margin-bottom: 0.6rem; }
+  .card p { font-size: 0.82rem; line-height: 1.55; color: #444; }
+
+  .tag {
+    display: inline-block; font-size: 0.67rem; padding: 2px 8px;
+    border-radius: 10px; margin: 2px; font-weight: 600;
+  }
+  .tag.blue { background: #dbeafe; color: #1d4ed8; }
+  .tag.green { background: #dcfce7; color: #15803d; }
+  .tag.orange { background: #ffedd5; color: #c2410c; }
+  .tag.gray { background: #f1f5f9; color: #475569; }
+
+  .feature-grid {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 0.7rem; margin-bottom: 1rem;
+  }
+  .feat-box {
+    background: white; border-radius: 10px; padding: 0.9rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06); text-align: center;
+  }
+  .feat-box .icon { font-size: 1.5rem; margin-bottom: 0.3rem; }
+  .feat-box h4 { font-size: 0.78rem; font-weight: 700; color: #1a1a2e; }
+  .feat-box p { font-size: 0.7rem; color: #666; margin-top: 0.2rem; }
+  .feat-box .present { color: #27ae60; font-size: 0.68rem; font-weight: 700; }
+  .feat-box .absent { color: #e94560; font-size: 0.68rem; font-weight: 700; }
+
+  .proposal-card {
+    background: linear-gradient(135deg, #0f3460, #1a1a2e);
+    color: white; border-radius: 12px; padding: 1.2rem;
+    margin-bottom: 0.9rem;
+  }
+  .proposal-card h3 { font-size: 0.95rem; margin-bottom: 0.5rem; }
+  .proposal-card p { font-size: 0.8rem; opacity: 0.85; line-height: 1.5; }
+  .proposal-card .phase {
+    display: inline-block; background: #e94560; color: white;
+    font-size: 0.65rem; padding: 2px 8px; border-radius: 10px;
+    font-weight: 700; margin-bottom: 0.5rem;
+  }
+
+  .stat-row {
+    display: flex; justify-content: space-around;
+    background: white; border-radius: 12px; padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06); margin-bottom: 1rem;
+  }
+  .stat { text-align: center; }
+  .stat .num { font-size: 1.6rem; font-weight: 800; color: #0f3460; }
+  .stat .lbl { font-size: 0.68rem; color: #888; }
+
+  h2.section-title {
+    font-size: 1rem; font-weight: 700; color: #0f3460;
+    margin-bottom: 0.9rem; padding-bottom: 0.4rem;
+    border-bottom: 2px solid #e0e4ec;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🌐 Sites Adventistes – Benchmark & Propositions</h1>
+  <p>Préparation réunion comité – Église de Troyes</p>
+  <span class="badge">DIMANCHE 13 AVRIL 2026</span>
+</header>
+
+<nav>
+  <button class="active" onclick="show('national')">🇫🇷 National</button>
+  <button onclick="show('federation')">🏛️ Fédérations</button>
+  <button onclick="show('locales')">📍 Locales</button>
+  <button onclick="show('fonctionnalites')">⚙️ Fonctionnalités</button>
+  <button onclick="show('troyes')">🎯 Troyes</button>
+  <button onclick="show('propositions')">✨ Propositions</button>
+</nav>
+
+<!-- NATIONAL -->
+<div id="national" class="section active">
+  <h2 class="section-title">Niveau national & union franco-belge</h2>
+
+  <div class="card">
+    <h3>adventiste.org — Site national officiel</h3>
+    <div class="url">www.adventiste.org</div>
+    <p><strong>Pages :</strong> Accueil · Qui sommes-nous ? · Nos actions · Événements · Ressources · Contact · Blog · FAQ</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Design moderne (Framer)</span>
+      <span class="tag green">Partenaires médias</span>
+      <span class="tag orange">Pas de streaming direct</span>
+      <span class="tag gray">Version 2025</span>
+    </div>
+    <p style="margin-top:0.6rem;">Portail vitrine regroupant les liens vers les médias adventistes (HCF TV, Hope Radio, ADRA, Revue Adventiste). Design épuré sur fond clair.</p>
+  </div>
+
+  <div class="card green">
+    <h3>ufbl.adventiste.org — Union Franco-Belgo-Luxembourgeoise</h3>
+    <div class="url">ufbl.adventiste.org</div>
+    <p><strong>Pages :</strong> Découvrez · Spiritualité · Service · Nos croyances · Organisation · Statistiques · Publications · Actualités · Fédérations · Localisation d'églises</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Très riche en contenu</span>
+      <span class="tag green">Méditations spirituelles</span>
+      <span class="tag green">Ressources enfants/famille</span>
+      <span class="tag orange">Design daté (WordPress)</span>
+    </div>
+    <p style="margin-top:0.6rem;">Le site de référence institutionnel le plus complet. Comprend des liens vers écrits d'Ellen White, ressources pour sourds/malentendants, statistiques annuelles, et un localisateur mondial d'églises.</p>
+  </div>
+
+  <div class="card purple">
+    <h3>Médias Adventistes Français</h3>
+    <div class="url">hcf.tv · hoperadio.live · hopebible.fr · revue.adventiste.org</div>
+    <p>Écosystème média structuré : <strong>HCF TV</strong> (streaming vidéo), <strong>Hope Radio</strong> (radio en ligne), <strong>Hope Bible</strong> (études bibliques), <strong>Revue Adventiste</strong> (magazine numérique). Ces ressources sont intégrables dans tout site d'église local.</p>
+  </div>
+</div>
+
+<!-- FÉDÉRATIONS -->
+<div id="federation" class="section">
+  <h2 class="section-title">Sites des fédérations</h2>
+
+  <div class="card green">
+    <h3>Fédération Nord de France (FFN) — Votre fédération</h3>
+    <div class="url">adventisteffn.org</div>
+    <p><strong>Pages :</strong> Accueil · Qui sommes-nous · Vision · FAQ · Trouver une église · Églises en ligne (vidéo) · Nos croyances · Pasteurs · Actualités par pôle · Jeunesse · Musique & Liturgie · Catéchèse adultes & enfants · Famille · Évangélisation</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Très structuré par pôles</span>
+      <span class="tag green">Église en ligne / vidéo</span>
+      <span class="tag green">Ministère des sourds</span>
+      <span class="tag green">École du Lys</span>
+    </div>
+    <p style="margin-top:0.6rem;">C'est le site de la fédération dont dépend Troyes. Il sert de modèle de structure pour les sites locaux et intègre les actualités des différentes églises du territoire.</p>
+  </div>
+
+  <div class="card">
+    <h3>Fédération Sud de France (FFS)</h3>
+    <div class="url">adventisteffs.org</div>
+    <p><strong>Pages :</strong> Accueil · Nos Églises · Notre Équipe · Événements (Trophée Cévenol, AMEB, E-Rallye) · Pôle Éducation · Actualités</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Événements jeunesse mis en avant</span>
+      <span class="tag green">Liste complète des pasteurs</span>
+      <span class="tag orange">Design simple</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Fédération Belgo-Luxembourgeoise</h3>
+    <div class="url">adventist.be</div>
+    <p>Portail bilingue (FR/NL) avec localisation d'églises en Belgique et Luxembourg. Structure similaire à la FFN.</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Bilingue FR/NL</span>
+      <span class="tag green">Carte interactive des églises</span>
+    </div>
+  </div>
+</div>
+
+<!-- LOCALES -->
+<div id="locales" class="section">
+  <h2 class="section-title">Exemples d'églises locales</h2>
+
+  <div class="card green">
+    <h3>Église de Bordeaux ⭐ Meilleure pratique</h3>
+    <div class="url">bordeaux.adventiste.org</div>
+    <p><strong>Fonctionnalités remarquables :</strong> Newsletter hebdomadaire (lien YouTube culte envoyé par email), formulaire d'inscription, politique de confidentialité, culte en streaming via YouTube, horaires et accès précis.</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Newsletter hebdo</span>
+      <span class="tag green">Streaming YouTube intégré</span>
+      <span class="tag green">Formulaire inscription</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Église de Nantes</h3>
+    <div class="url">nantes-adventiste.com</div>
+    <p><strong>Pages :</strong> Accueil · Croyances · Agenda (sabbats en nature) · Actualités · Contact. Gestion active des événements spéciaux avec photos et compte-rendu. Site communautaire vivant avec annonces baptêmes et activités.</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Événements détaillés</span>
+      <span class="tag orange">Peu de fonctionnalités tech</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Église de Lyon Vendôme</h3>
+    <div class="url">lyonvendome.adventiste.org</div>
+    <p>Site épuré centré sur l'accueil des visiteurs. Page d'actualités et annonces mis à jour régulièrement. Ton chaleureux et accessible.</p>
+  </div>
+
+  <div class="card green">
+    <h3>Église de Lyon Monts d'Or ⭐ Meilleure pratique</h3>
+    <div class="url">lyonmontsdor.adventiste.org</div>
+    <p><strong>Sections remarquables :</strong> Jeunesse Adventiste (Pathfinders dès 7 ans) · Espace Poten'ciel jeunes adultes · Solidarité / entraide · Programme «Enditnow» (contre les violences). Site axé sur les ministères spécialisés.</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Ministères détaillés</span>
+      <span class="tag green">Espace jeunes adultes</span>
+      <span class="tag green">Solidarité communautaire</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Église de Paris Sud</h3>
+    <div class="url">parissud130.fr</div>
+    <p>Site à forte identité pastorale, avec mot d'accueil du pasteur. Mise en avant de l'aspect communautaire et de la spiritualité personnelle.</p>
+  </div>
+
+  <div class="card">
+    <h3>Église Adventiste de Guadeloupe</h3>
+    <div class="url">adventiste-gp.org</div>
+    <p>Offre des ressources téléchargeables (livret École du Sabbat), annonces de jeûne et prière, formulaires d'inscription en ligne (cours bibliques), et un programme de femmes. Modèle riche en contenu spirituel.</p>
+    <div style="margin-top:0.6rem;">
+      <span class="tag blue">Ressources téléchargeables</span>
+      <span class="tag green">Inscription cours en ligne</span>
+      <span class="tag green">Programme femmes</span>
+    </div>
+  </div>
+</div>
+
+<!-- FONCTIONNALITÉS -->
+<div id="fonctionnalites" class="section">
+  <h2 class="section-title">Inventaire des fonctionnalités observées</h2>
+
+  <div class="stat-row">
+    <div class="stat"><div class="num">8</div><div class="lbl">Sites analysés</div></div>
+    <div class="stat"><div class="num">6</div><div class="lbl">Types de fonctionnalités</div></div>
+    <div class="stat"><div class="num">0</div><div class="lbl">Site à Troyes</div></div>
+  </div>
+
+  <div class="feature-grid">
+    <div class="feat-box">
+      <div class="icon">📺</div>
+      <h4>Streaming / Vidéo</h4>
+      <p>Intégration YouTube ou HCF TV</p>
+      <div class="present">✓ Bordeaux, FFN, Guadeloupe</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">📧</div>
+      <h4>Newsletter</h4>
+      <p>Inscription email hebdomadaire</p>
+      <div class="present">✓ Bordeaux, Guadeloupe</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">📅</div>
+      <h4>Calendrier d'événements</h4>
+      <p>Agenda interactif / annonces</p>
+      <div class="present">✓ Nantes, FFS, Guadeloupe</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">📖</div>
+      <h4>Ressources bibliques</h4>
+      <p>Études, méditations, livrets</p>
+      <div class="present">✓ UFBL, Guadeloupe, FFN</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">🙏</div>
+      <h4>Formulaire prière</h4>
+      <p>Demandes de prière en ligne</p>
+      <div class="present">✓ UFBL, addtroyes.com</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">👥</div>
+      <h4>Ministères jeunesse</h4>
+      <p>Pathfinders, jeunes adultes</p>
+      <div class="present">✓ Lyon Monts d'Or, FFN</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">💰</div>
+      <h4>Don en ligne / Dîme</h4>
+      <p>Système de don sécurisé</p>
+      <div class="absent">✗ Rare en France</div>
+    </div>
+    <div class="feat-box">
+      <div class="icon">🗺️</div>
+      <h4>Localisation / Carte</h4>
+      <p>Accès GPS et transports</p>
+      <div class="present">✓ Bordeaux, UFBL</div>
+    </div>
+  </div>
+
+  <div class="card orange">
+    <h3>⚠️ Constat clé</h3>
+    <p>Aucun site d'église adventiste française ne dispose d'une <strong>section membre sécurisée</strong>, d'un <strong>système de don en ligne</strong> intégré, ni d'un véritable <strong>moteur de recherche de sermons</strong>. Ces fonctionnalités représentent une opportunité de différenciation pour Troyes.</p>
+  </div>
+</div>
+
+<!-- TROYES -->
+<div id="troyes" class="section">
+  <h2 class="section-title">État actuel – Église de Troyes</h2>
+
+  <div class="card red">
+    <h3>🔴 Absence de site internet officiel</h3>
+    <div class="url">40 Boulevard Jules Guesde, 10000 Troyes</div>
+    <p>Les annuaires en ligne (PagesJaunes, eglise-info.com) indiquent <strong>« Aucun site internet connu »</strong> pour l'Église Adventiste du 7e Jour de Troyes. La seule présence numérique trouvée est une page Facebook de la Fédération Nord mentionnant des événements liés à Troyes.</p>
+  </div>
+
+  <div class="card orange">
+    <h3>🟡 Présence numérique partielle détectée</h3>
+    <div class="url">nouveau.addtroyes.com</div>
+    <p>Un sous-domaine a été identifié, avec une page de sujets de prière pour les membres. Il ne s'agit pas d'un site public complet : pas d'accueil, pas d'informations sur les cultes, pas de contact public.</p>
+  </div>
+
+  <div class="card">
+    <h3>📊 Positionnement dans la fédération</h3>
+    <p>Troyes dépend de la <strong>Fédération Nord de France (FFN)</strong>. Le localisateur de la FFN liste l'église mais ne renvoie vers aucun site local. Troyes est donc l'une des rares villes de la fédération sans présence web autonome, ce qui représente un manque de visibilité lors des recherches des visiteurs.</p>
+  </div>
+</div>
+
+<!-- PROPOSITIONS -->
+<div id="propositions" class="section">
+  <h2 class="section-title">Propositions pour l'Église de Troyes</h2>
+
+  <div class="proposal-card">
+    <span class="phase">PHASE 1 – Essentiel</span>
+    <h3>🏠 Site vitrine de base</h3>
+    <p>Accueil chaleureux avec mot du pasteur · Horaires et adresse avec carte Google Maps · Page « Qui sommes-nous / Nos croyances » · Formulaire de contact et demande de prière · Liens vers les médias adventistes (HCF TV, Hope Radio)</p>
+  </div>
+
+  <div class="proposal-card">
+    <span class="phase">PHASE 2 – Communauté</span>
+    <h3>📣 Engagement communautaire</h3>
+    <p>Calendrier des événements et annonces · Newsletter d'inscription (culte hebdo par email + lien YouTube) · Page Jeunesse (Pathfinders, activités jeunes) · Page Famille et Ministères · Galerie photos des événements</p>
+  </div>
+
+  <div class="proposal-card">
+    <span class="phase">PHASE 3 – Innovation</span>
+    <h3>🚀 Fonctionnalités différenciantes</h3>
+    <p>Archive des sermons (vidéo + audio) avec moteur de recherche · Études bibliques en ligne · Formulaire d'inscription aux groupes d'étude · Don en ligne sécurisé (fonctionnalité quasi-absente en France) · Section membre avec annonces internes · Intégration IMPACT 2026 / événements UFBJA</p>
+  </div>
+
+  <div class="card green">
+    <h3>✅ Recommandation technique</h3>
+    <p>Développement en <strong>React</strong> avec hébergement sous-domaine <strong>troyes.adventiste.org</strong> (en accord avec la FFN), assurant cohérence avec l'écosystème adventiste national. Identité visuelle propre à Troyes tout en respectant la charte de la fédération.</p>
+  </div>
+
+  <div class="card">
+    <h3>📋 Points à valider avec le comité</h3>
+    <p>1. Validation du nom de domaine avec la FFN (sous-domaine vs domaine propre). 2. Désignation d'un responsable éditorial pour les mises à jour de contenu. 3. Accord sur les fonctionnalités prioritaires de la Phase 1. 4. Budget et calendrier de déploiement.</p>
+  </div>
+</div>
+
+<script>
+function show(id) {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  event.target.classList.add('active');
+}
+</script>
+</body>
+</html>
