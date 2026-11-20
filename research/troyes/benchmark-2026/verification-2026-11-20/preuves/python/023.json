@@ -1,0 +1,835 @@
+{
+  "accueil": {
+    "url": "https://www.bordeaux.adventiste.org/home/",
+    "final": "https://www.bordeaux.adventiste.org/home/",
+    "status": 200,
+    "title": "Eglise Adventiste du Septième de Bordeaux Search Menu Search Menu Seventh-day Adventist logo mark Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org/en/"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "ADRA",
+        "https://adra.org/"
+      ],
+      [
+        "Adventist World Radio",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel",
+        "https://www.hopetv.org/"
+      ],
+      [
+        "Chapelle Jasmin, 8 rue du Docteur Roux, 33230 Eysines",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Les p'tits déj'",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw/videos"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "Youtube Jeunesse Adventiste",
+        "https://www.youtube.com/@FFJASud"
+      ],
+      [
+        "Radio ADVENTLIFE",
+        "https://adventlife.fr/adventradio/V5/index.html"
+      ],
+      [
+        "HopeChannel",
+        "https://hcf.tv"
+      ],
+      [
+        "des mentions légales et politique de confidentialité",
+        "http://www.bordeaux.adventiste.org/politique-de-confidentialite/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "newsletter": "Newsletter",
+      "don": "Faire un don",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "url": "https://www.bordeaux.adventiste.org/",
+    "final": "https://www.bordeaux.adventiste.org/",
+    "status": 200,
+    "title": "Bienvenue à l'Eglise Adventiste du Septième Jour de Bordeaux Search Menu Search Menu Seventh-day Adventist logo mark Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org/en/"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "ADRA",
+        "https://adra.org/"
+      ],
+      [
+        "Adventist World Radio",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel",
+        "https://www.hopetv.org/"
+      ],
+      [
+        "Carte et contact",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Je viens pour la première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Plus d’informations",
+        "https://www.bordeaux.adventiste.org/departements/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "Youtube Jeunesse Adventiste",
+        "https://www.youtube.com/@FFJASud"
+      ],
+      [
+        "Radio ADVENTLIFE",
+        "https://adventlife.fr/adventradio/V5/index.html"
+      ],
+      [
+        "HopeChannel",
+        "https://hcf.tv"
+      ],
+      [
+        "des mentions légales et politique de confidentialité",
+        "http://www.bordeaux.adventiste.org/politique-de-confidentialite/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "newsletter": "Newsletter",
+      "don": "Faire un don",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "contact": {
+    "url": "https://www.bordeaux.adventiste.org/contact-acces/",
+    "final": "https://www.bordeaux.adventiste.org/contact-acces/",
+    "status": 200,
+    "title": "Contact & Accès Search Menu Search Menu Seventh-day Adventist logo mark Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org/en/"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "ADRA",
+        "https://adra.org/"
+      ],
+      [
+        "Adventist World Radio",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel",
+        "https://www.hopetv.org/"
+      ],
+      [
+        "Contact",
+        "https://qrco.de/FDUSART"
+      ],
+      [
+        "Contact",
+        "https://qrco.de/GCOSENDAI"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "Youtube Jeunesse Adventiste",
+        "https://www.youtube.com/@FFJASud"
+      ],
+      [
+        "Radio ADVENTLIFE",
+        "https://adventlife.fr/adventradio/V5/index.html"
+      ],
+      [
+        "HopeChannel",
+        "https://hcf.tv"
+      ],
+      [
+        "des mentions légales et politique de confidentialité",
+        "http://www.bordeaux.adventiste.org/politique-de-confidentialite/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "newsletter": "Newsletter",
+      "don": "Faire un don",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "mentions": {
+    "url": "http://www.bordeaux.adventiste.org/politique-de-confidentialite/",
+    "final": "https://www.bordeaux.adventiste.org/politique-de-confidentialite/",
+    "status": 200,
+    "title": "MENTIONS LÉGALES ET POLITIQUE DE CONFIDENTIALITÉ | Eglise Adventiste du Septième Jour de Bordeaux Search Menu Search Menu Seventh-day Adventist logo mark Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org/en/"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "ADRA",
+        "https://adra.org/"
+      ],
+      [
+        "Adventist World Radio",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel",
+        "https://www.hopetv.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://tbordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "http://bordeaux.adventiste.org",
+        "http://bordeaux.adventiste.org/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "newsletter": "Newsletter",
+      "don": "Faire un don",
+      "recherche": "Search",
+      "blog": "articles",
+      "rgpd": "CONFIDENTIALITÉ"
+    }
+  },
+  "don": {
+    "url": "https://www.bordeaux.adventiste.org/services/tresorerie/",
+    "final": "https://www.bordeaux.adventiste.org/services/tresorerie/",
+    "status": 200,
+    "title": "Trésorerie | Eglise Adventiste du Septième Jour de Bordeaux Search Menu Search Menu Seventh-day Adventist logo mark Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Accueil",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Première fois",
+        "https://www.bordeaux.adventiste.org/premiere-fois/"
+      ],
+      [
+        "Services",
+        "https://www.bordeaux.adventiste.org/services/"
+      ],
+      [
+        "Grandir spirituellement",
+        "https://www.bordeaux.adventiste.org/grandir-spirituellement/"
+      ],
+      [
+        "Du soin pour chacun",
+        "https://www.bordeaux.adventiste.org/du-soin-pour-chacun/"
+      ],
+      [
+        "Newsletter",
+        "https://www.bordeaux.adventiste.org/newsletter/"
+      ],
+      [
+        "Contact & Accès",
+        "https://www.bordeaux.adventiste.org/contact-acces/"
+      ],
+      [
+        "Faire un don",
+        "https://www.bordeaux.adventiste.org/services/tresorerie/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.bordeaux/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCMKhzRznyzvBPVc_k-GJwhw"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/EgliseAdventisteBordeaux/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.bordeaux.adventiste.org/"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org/en/"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "ADRA",
+        "https://adra.org/"
+      ],
+      [
+        "Adventist World Radio",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel",
+        "https://www.hopetv.org/"
+      ],
+      [
+        "en cliquant ici",
+        "https://www.helloasso.com/associations/facsa-antenne-bordeaux/formulaires/4/widget"
+      ],
+      [
+        "Justificatif de dépense",
+        "https://drive.google.com/file/d/1Ofp07iAUiO_V0G3ITW6Qhd3PL4i27a6M/view?usp=sharing"
+      ],
+      [
+        "Adventiste.org",
+        "https://www.adventiste.org"
+      ],
+      [
+        "Fédération France Sud",
+        "https://adventisteffs.org"
+      ],
+      [
+        "Youtube Jeunesse Adventiste",
+        "https://www.youtube.com/@FFJASud"
+      ],
+      [
+        "Radio ADVENTLIFE",
+        "https://adventlife.fr/adventradio/V5/index.html"
+      ],
+      [
+        "HopeChannel",
+        "https://hcf.tv"
+      ],
+      [
+        "des mentions légales et politique de confidentialité",
+        "http://www.bordeaux.adventiste.org/politique-de-confidentialite/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "newsletter": "Newsletter",
+      "don": "Faire un don",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  }
+}

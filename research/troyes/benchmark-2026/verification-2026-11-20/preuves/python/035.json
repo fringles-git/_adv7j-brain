@@ -1,0 +1,468 @@
+{
+  "accueil": {
+    "url": "https://bienne.adventiste.ch/",
+    "final": "https://bienne.adventiste.ch/",
+    "status": 200,
+    "title": "Église  Adventiste de Bienne",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Arc jurassien",
+        "https://arcjurassien.adventiste.ch/"
+      ],
+      [
+        "Bienne",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "La Chaux-de-Fonds",
+        "https://lachauxdefonds.adventiste.ch/"
+      ],
+      [
+        "Delémont",
+        "https://delemont.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Francophone",
+        "https://neuchatel-fr.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Luso-Hispanique",
+        "https://neuchatel-lusohispanique.adventiste.ch/"
+      ],
+      [
+        "Acceuil",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "Évènements",
+        "https://bienne.adventiste.ch/evenements/"
+      ],
+      [
+        "Évènements à Bienne",
+        "https://bienne.adventiste.ch/category/evenements-a-bienne/"
+      ],
+      [
+        "Évènements en Suisse",
+        "https://bienne.adventiste.ch/category/evenements-en-suisse/"
+      ],
+      [
+        "Équipe pastorale",
+        "https://bienne.adventiste.ch/equipe-pastorale/"
+      ],
+      [
+        "Pasteurs",
+        "https://bienne.adventiste.ch/nos-pasteurs/"
+      ],
+      [
+        "Agenda d’église",
+        "https://bienne.adventiste.ch/agenda/"
+      ],
+      [
+        "Programme",
+        "https://bienne.adventiste.ch/programme/"
+      ],
+      [
+        "Contact",
+        "https://bienne.adventiste.ch/contact/"
+      ],
+      [
+        "Programme novembre et décembre 2026",
+        "https://bienne.adventiste.ch/wp-content/uploads/2026/10/Flyers-eglise-3.pdf"
+      ],
+      [
+        "Islam et Christianisme : comprendre nos différences",
+        "https://bienne.adventiste.ch/islam-et-christianisme-comprendre-nos-differences/"
+      ],
+      [
+        "Adra Suisse : Noël dans un carton",
+        "https://bienne.adventiste.ch/adra-suisse-noel-dans-un-carton/"
+      ],
+      [
+        "Day4family : une fête pour toute la ville de Bienne",
+        "https://bienne.adventiste.ch/day4family-une-fete-pour-toute-la-ville-de-bienne/"
+      ],
+      [
+        "Tramelan Adventist Heritage Suisse – La résistance d’un pasteur",
+        "https://bienne.adventiste.ch/tramelan-adventist-heritage-suisse-la-resistance-dun-pasteur/"
+      ],
+      [
+        "One voice 27 : 40 jours pour se rapprocher de Dieu",
+        "https://bienne.adventiste.ch/one-voice-27-40-jours-pour-se-rapprocher-de-dieu/"
+      ],
+      [
+        "Agenda",
+        "https://bienne.adventiste.ch/agenda/"
+      ],
+      [
+        "Programme de l’Église",
+        "https://bienne.adventiste.ch/programme/"
+      ],
+      [
+        "SiteOrigin",
+        "https://siteorigin.com"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Search",
+      "blog": "Articles"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "url": "https://bienne.adventiste.ch/evenements/",
+    "final": "https://bienne.adventiste.ch/evenements/",
+    "status": 200,
+    "title": "Évènements – Église  Adventiste de Bienne",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Arc jurassien",
+        "https://arcjurassien.adventiste.ch/"
+      ],
+      [
+        "Bienne",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "La Chaux-de-Fonds",
+        "https://lachauxdefonds.adventiste.ch/"
+      ],
+      [
+        "Delémont",
+        "https://delemont.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Francophone",
+        "https://neuchatel-fr.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Luso-Hispanique",
+        "https://neuchatel-lusohispanique.adventiste.ch/"
+      ],
+      [
+        "Acceuil",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "Évènements",
+        "https://bienne.adventiste.ch/evenements/"
+      ],
+      [
+        "Évènements à Bienne",
+        "https://bienne.adventiste.ch/category/evenements-a-bienne/"
+      ],
+      [
+        "Évènements en Suisse",
+        "https://bienne.adventiste.ch/category/evenements-en-suisse/"
+      ],
+      [
+        "Équipe pastorale",
+        "https://bienne.adventiste.ch/equipe-pastorale/"
+      ],
+      [
+        "Pasteurs",
+        "https://bienne.adventiste.ch/nos-pasteurs/"
+      ],
+      [
+        "Agenda d’église",
+        "https://bienne.adventiste.ch/agenda/"
+      ],
+      [
+        "Programme",
+        "https://bienne.adventiste.ch/programme/"
+      ],
+      [
+        "Contact",
+        "https://bienne.adventiste.ch/contact/"
+      ],
+      [
+        "Islam et Christianisme : comprendre nos différences",
+        "https://bienne.adventiste.ch/islam-et-christianisme-comprendre-nos-differences/"
+      ],
+      [
+        "Adra Suisse : Noël dans un carton",
+        "https://bienne.adventiste.ch/adra-suisse-noel-dans-un-carton/"
+      ],
+      [
+        "Day4family : une fête pour toute la ville de Bienne",
+        "https://bienne.adventiste.ch/day4family-une-fete-pour-toute-la-ville-de-bienne/"
+      ],
+      [
+        "Tramelan Adventist Heritage Suisse – La résistance d’un pasteur",
+        "https://bienne.adventiste.ch/tramelan-adventist-heritage-suisse-la-resistance-dun-pasteur/"
+      ],
+      [
+        "One voice 27 : 40 jours pour se rapprocher de Dieu",
+        "https://bienne.adventiste.ch/one-voice-27-40-jours-pour-se-rapprocher-de-dieu/"
+      ],
+      [
+        "Sabbat nature à Prêles : une parenthèse au cœur de la création",
+        "https://bienne.adventiste.ch/sabbat-nature-a-preles-une-parenthese-au-coeur-de-la-creation/"
+      ],
+      [
+        "Église adventiste de Bienne : le 20 juin",
+        "https://bienne.adventiste.ch/eglise-adventiste-de-bienne-le-20-juin/"
+      ],
+      [
+        "Fêtes Bibliques : des rendez-vous à ne pas manquer",
+        "https://bienne.adventiste.ch/fetes-bibliques-des-rendez-vous-a-ne-pas-manquer/"
+      ],
+      [
+        "Le 7 mars : Journée internationale de prière des femmes",
+        "https://bienne.adventiste.ch/le-7-mars-journee-de-la-priere-des-femmes/"
+      ],
+      [
+        "Énigme biblique autour du livre de Daniel",
+        "https://bienne.adventiste.ch/enigme-biblique-autour-du-livre-de-daniel/"
+      ],
+      [
+        "Islam et Christianisme : comprendre nos différences",
+        "https://bienne.adventiste.ch/islam-et-christianisme-comprendre-nos-differences/"
+      ],
+      [
+        "Adra Suisse : Noël dans un carton",
+        "https://bienne.adventiste.ch/adra-suisse-noel-dans-un-carton/"
+      ],
+      [
+        "Day4family : une fête pour toute la ville de Bienne",
+        "https://bienne.adventiste.ch/day4family-une-fete-pour-toute-la-ville-de-bienne/"
+      ],
+      [
+        "Tramelan Adventist Heritage Suisse – La résistance d’un pasteur",
+        "https://bienne.adventiste.ch/tramelan-adventist-heritage-suisse-la-resistance-dun-pasteur/"
+      ],
+      [
+        "One voice 27 : 40 jours pour se rapprocher de Dieu",
+        "https://bienne.adventiste.ch/one-voice-27-40-jours-pour-se-rapprocher-de-dieu/"
+      ],
+      [
+        "Chloe Gagnebin",
+        "https://bienne.adventiste.ch/author/chloe/"
+      ],
+      [
+        "Le 7 mars : Journée internationale de prière des femmes",
+        "https://bienne.adventiste.ch/le-7-mars-journee-de-la-priere-des-femmes/#comment-254"
+      ],
+      [
+        "Le 7 mars : Journée internationale de prière des femmes",
+        "https://bienne.adventiste.ch/le-7-mars-journee-de-la-priere-des-femmes/#comment-224"
+      ],
+      [
+        "Chloe Gagnebin",
+        "https://bienne.adventiste.ch/author/chloe/"
+      ],
+      [
+        "WE du Ministère des Hommes de la FSRT",
+        "https://bienne.adventiste.ch/we-du-ministere-des-hommes-de-la-fsrt/#comment-80"
+      ],
+      [
+        "WE du Ministère des Hommes de la FSRT",
+        "https://bienne.adventiste.ch/we-du-ministere-des-hommes-de-la-fsrt/#comment-49"
+      ],
+      [
+        "novembre 2026",
+        "https://bienne.adventiste.ch/2026/11/"
+      ],
+      [
+        "octobre 2026",
+        "https://bienne.adventiste.ch/2026/10/"
+      ],
+      [
+        "août 2026",
+        "https://bienne.adventiste.ch/2026/08/"
+      ],
+      [
+        "juillet 2026",
+        "https://bienne.adventiste.ch/2026/07/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Search",
+      "blog": "Articles"
+    }
+  },
+  "contact": {
+    "url": "https://bienne.adventiste.ch/contact/",
+    "final": "https://bienne.adventiste.ch/contact/",
+    "status": 200,
+    "title": "Contact – Église  Adventiste de Bienne",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Arc jurassien",
+        "https://arcjurassien.adventiste.ch/"
+      ],
+      [
+        "Bienne",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "La Chaux-de-Fonds",
+        "https://lachauxdefonds.adventiste.ch/"
+      ],
+      [
+        "Delémont",
+        "https://delemont.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Francophone",
+        "https://neuchatel-fr.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Luso-Hispanique",
+        "https://neuchatel-lusohispanique.adventiste.ch/"
+      ],
+      [
+        "Acceuil",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "Évènements",
+        "https://bienne.adventiste.ch/evenements/"
+      ],
+      [
+        "Évènements à Bienne",
+        "https://bienne.adventiste.ch/category/evenements-a-bienne/"
+      ],
+      [
+        "Évènements en Suisse",
+        "https://bienne.adventiste.ch/category/evenements-en-suisse/"
+      ],
+      [
+        "Équipe pastorale",
+        "https://bienne.adventiste.ch/equipe-pastorale/"
+      ],
+      [
+        "Pasteurs",
+        "https://bienne.adventiste.ch/nos-pasteurs/"
+      ],
+      [
+        "Agenda d’église",
+        "https://bienne.adventiste.ch/agenda/"
+      ],
+      [
+        "Programme",
+        "https://bienne.adventiste.ch/programme/"
+      ],
+      [
+        "Contact",
+        "https://bienne.adventiste.ch/contact/"
+      ],
+      [
+        "Islam et Christianisme : comprendre nos différences",
+        "https://bienne.adventiste.ch/islam-et-christianisme-comprendre-nos-differences/"
+      ],
+      [
+        "Adra Suisse : Noël dans un carton",
+        "https://bienne.adventiste.ch/adra-suisse-noel-dans-un-carton/"
+      ],
+      [
+        "Day4family : une fête pour toute la ville de Bienne",
+        "https://bienne.adventiste.ch/day4family-une-fete-pour-toute-la-ville-de-bienne/"
+      ],
+      [
+        "Tramelan Adventist Heritage Suisse – La résistance d’un pasteur",
+        "https://bienne.adventiste.ch/tramelan-adventist-heritage-suisse-la-resistance-dun-pasteur/"
+      ],
+      [
+        "One voice 27 : 40 jours pour se rapprocher de Dieu",
+        "https://bienne.adventiste.ch/one-voice-27-40-jours-pour-se-rapprocher-de-dieu/"
+      ],
+      [
+        "Chloe Gagnebin",
+        "https://bienne.adventiste.ch/author/chloe/"
+      ],
+      [
+        "Le 7 mars : Journée internationale de prière des femmes",
+        "https://bienne.adventiste.ch/le-7-mars-journee-de-la-priere-des-femmes/#comment-254"
+      ],
+      [
+        "Le 7 mars : Journée internationale de prière des femmes",
+        "https://bienne.adventiste.ch/le-7-mars-journee-de-la-priere-des-femmes/#comment-224"
+      ],
+      [
+        "Chloe Gagnebin",
+        "https://bienne.adventiste.ch/author/chloe/"
+      ],
+      [
+        "WE du Ministère des Hommes de la FSRT",
+        "https://bienne.adventiste.ch/we-du-ministere-des-hommes-de-la-fsrt/#comment-80"
+      ],
+      [
+        "WE du Ministère des Hommes de la FSRT",
+        "https://bienne.adventiste.ch/we-du-ministere-des-hommes-de-la-fsrt/#comment-49"
+      ],
+      [
+        "novembre 2026",
+        "https://bienne.adventiste.ch/2026/11/"
+      ],
+      [
+        "octobre 2026",
+        "https://bienne.adventiste.ch/2026/10/"
+      ],
+      [
+        "août 2026",
+        "https://bienne.adventiste.ch/2026/08/"
+      ],
+      [
+        "juillet 2026",
+        "https://bienne.adventiste.ch/2026/07/"
+      ],
+      [
+        "mai 2026",
+        "https://bienne.adventiste.ch/2026/05/"
+      ],
+      [
+        "mars 2026",
+        "https://bienne.adventiste.ch/2026/03/"
+      ],
+      [
+        "février 2026",
+        "https://bienne.adventiste.ch/2026/02/"
+      ],
+      [
+        "janvier 2026",
+        "https://bienne.adventiste.ch/2026/01/"
+      ],
+      [
+        "décembre 2025",
+        "https://bienne.adventiste.ch/2025/12/"
+      ],
+      [
+        "octobre 2025",
+        "https://bienne.adventiste.ch/2025/10/"
+      ],
+      [
+        "Évènements à Bienne",
+        "https://bienne.adventiste.ch/category/evenements-a-bienne/"
+      ],
+      [
+        "Évènements en Suisse",
+        "https://bienne.adventiste.ch/category/evenements-en-suisse/"
+      ],
+      [
+        "SiteOrigin",
+        "https://siteorigin.com"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Search",
+      "blog": "Articles"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

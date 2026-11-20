@@ -1,0 +1,149 @@
+{
+  "accueil": {
+    "url": "https://www.liege.adventiste.be/index.php",
+    "final": "https://www.liege.adventiste.be/index.php",
+    "status": 200,
+    "title": "Eglise Adventiste Liège",
+    "cms": null,
+    "links": [
+      [
+        "Accueil",
+        "https://www.liege.adventiste.be/index.php"
+      ],
+      [
+        "Des racines",
+        "https://www.liege.adventiste.be/QuiSommesNousRacines.php"
+      ],
+      [
+        "Nos croyances",
+        "https://www.liege.adventiste.be/QuiSommesNosCoyances1.php"
+      ],
+      [
+        "Nos croyances fondamentales",
+        "https://www.liege.adventiste.be/28_Croyance_Fondamentales.pdf"
+      ],
+      [
+        "Organisation mondiale",
+        "https://www.liege.adventiste.be/OrganisationMondiale.php"
+      ],
+      [
+        "L'adventisme en Belgique",
+        "https://www.liege.adventiste.be/OrganisationAdventismeEnBelgique.php"
+      ],
+      [
+        "Un coeur: La Bible",
+        "https://www.liege.adventiste.be/EtudeBibleUnCoeur.php"
+      ],
+      [
+        "Des bras, des jambes",
+        "https://www.liege.adventiste.be/ActionsSociales.php"
+      ],
+      [
+        "- Site du Bible Festival -",
+        "https://biblefestival.adventist.be/"
+      ],
+      [
+        "- A distance mais toujours ensemble",
+        "http://www.woluwe.adventiste.be/Data2020/ADistanceMaisToujoursEnsemble.pdf"
+      ],
+      [
+        "- Du temps ensemble",
+        "http://www.woluwe.adventiste.be/Data2020/DuTempsEnsemble.pdf"
+      ],
+      [
+        "- Mon abri et ma forteresse",
+        "http://www.woluwe.adventiste.be/Data2020/MonAbriEtMaForteresse.pdf"
+      ],
+      [
+        "- Le confinement de Christ",
+        "http://www.woluwe.adventiste.be/Data2020/LeConfinementDeChrist.pdf"
+      ],
+      [
+        "- Si mon peuple prie",
+        "http://www.woluwe.adventiste.be/Data2020/SiMonPeuplePrie.pdf"
+      ],
+      [
+        "- Le temps de la fin et la fin du temps",
+        "http://www.woluwe.adventiste.be/Data2020/LeTempsDeLaFinEtLaFinDuTemps.pdf"
+      ],
+      [
+        "- L'avant et l'Avent",
+        "http://www.woluwe.adventiste.be/Data2020/LavantEtlAvent.pdf"
+      ],
+      [
+        "- La question la plus importante",
+        "http://www.woluwe.adventiste.be/Data2020/LaQuestionLaPlusImportante.pdf"
+      ],
+      [
+        "- Es-tu oui ou non le Messie ?",
+        "http://www.woluwe.adventiste.be/Data2020/Es-tuOuiOuNonLeMessie.pdf"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "don": "faire un don",
+      "blog": "articles"
+    }
+  },
+  "a_propos": {
+    "url": "https://www.liege.adventiste.be/QuiSommesNosCoyances1.php",
+    "final": "https://www.liege.adventiste.be/QuiSommesNosCoyances1.php",
+    "status": 200,
+    "title": "Eglise Adventiste Liège",
+    "cms": null,
+    "links": [
+      [
+        "Accueil",
+        "https://www.liege.adventiste.be/index.php"
+      ],
+      [
+        "Des racines",
+        "https://www.liege.adventiste.be/QuiSommesNousRacines.php"
+      ],
+      [
+        "Nos croyances",
+        "https://www.liege.adventiste.be/QuiSommesNosCoyances1.php"
+      ],
+      [
+        "Nos croyances fondamentales",
+        "https://www.liege.adventiste.be/28_Croyance_Fondamentales.pdf"
+      ],
+      [
+        "Organisation mondiale",
+        "https://www.liege.adventiste.be/OrganisationMondiale.php"
+      ],
+      [
+        "L'adventisme en Belgique",
+        "https://www.liege.adventiste.be/OrganisationAdventismeEnBelgique.php"
+      ],
+      [
+        "Un coeur: La Bible",
+        "https://www.liege.adventiste.be/EtudeBibleUnCoeur.php"
+      ],
+      [
+        "Des bras, des jambes",
+        "https://www.liege.adventiste.be/ActionsSociales.php"
+      ],
+      [
+        "Voir : Synthèse de la foi fondamentale (28 Croyances Fondamentales)",
+        "https://www.liege.adventiste.be/28_Croyance_Fondamentales.pdf"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "événements"
+    }
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

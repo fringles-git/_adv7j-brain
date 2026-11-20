@@ -1,0 +1,876 @@
+{
+  "accueil": {
+    "url": "https://nice-centre.adventiste.org/",
+    "final": "https://nice-centre.adventiste.org/",
+    "status": 200,
+    "title": "Église Adventiste Nice Centre",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ],
+      [
+        "Etude de la Bible",
+        "https://nice-centre.adventiste.org/index.php/etude-de-la-bible/"
+      ],
+      [
+        "Prière",
+        "https://nice-centre.adventiste.org/index.php/priere/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-centre.adventiste.org/index.php/youth/"
+      ],
+      [
+        "Ministère auprès des enfants",
+        "https://nice-centre.adventiste.org/index.php/ministere-aupres-des-enfants/"
+      ],
+      [
+        "Famille",
+        "https://nice-centre.adventiste.org/index.php/famille/"
+      ],
+      [
+        "Santé",
+        "https://nice-centre.adventiste.org/index.php/sante/"
+      ],
+      [
+        "Mifem",
+        "https://nice-centre.adventiste.org/index.php/mifem/"
+      ],
+      [
+        "Vie d’église",
+        "https://nice-centre.adventiste.org/index.php/vie-deglise/"
+      ],
+      [
+        "Evangélisation & action",
+        "https://nice-centre.adventiste.org/index.php/evangelisation-action/"
+      ],
+      [
+        "Actions sociales",
+        "https://nice-centre.adventiste.org/index.php/actions-sociales/"
+      ],
+      [
+        "Ressources",
+        "https://nice-centre.adventiste.org/index.php/ressources/"
+      ],
+      [
+        "Agenda",
+        "https://nice-centre.adventiste.org/index.php/agena/"
+      ],
+      [
+        "Planning",
+        "https://nice-centre.adventiste.org/index.php/planning/"
+      ],
+      [
+        "Contact",
+        "https://nice-centre.adventiste.org/#contact-form"
+      ],
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "blog": "Actualités"
+    }
+  },
+  "a_propos": {
+    "url": "https://nice-centre.adventiste.org/index.php/about/",
+    "final": "https://nice-centre.adventiste.org/index.php/about/",
+    "status": 200,
+    "title": "about - Eglise Adventiste du 7e jour de Nice",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ],
+      [
+        "Etude de la Bible",
+        "https://nice-centre.adventiste.org/index.php/etude-de-la-bible/"
+      ],
+      [
+        "Prière",
+        "https://nice-centre.adventiste.org/index.php/priere/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-centre.adventiste.org/index.php/youth/"
+      ],
+      [
+        "Ministère auprès des enfants",
+        "https://nice-centre.adventiste.org/index.php/ministere-aupres-des-enfants/"
+      ],
+      [
+        "Famille",
+        "https://nice-centre.adventiste.org/index.php/famille/"
+      ],
+      [
+        "Santé",
+        "https://nice-centre.adventiste.org/index.php/sante/"
+      ],
+      [
+        "Mifem",
+        "https://nice-centre.adventiste.org/index.php/mifem/"
+      ],
+      [
+        "Vie d’église",
+        "https://nice-centre.adventiste.org/index.php/vie-deglise/"
+      ],
+      [
+        "Evangélisation & action",
+        "https://nice-centre.adventiste.org/index.php/evangelisation-action/"
+      ],
+      [
+        "Actions sociales",
+        "https://nice-centre.adventiste.org/index.php/actions-sociales/"
+      ],
+      [
+        "Ressources",
+        "https://nice-centre.adventiste.org/index.php/ressources/"
+      ],
+      [
+        "Agenda",
+        "https://nice-centre.adventiste.org/index.php/agena/"
+      ],
+      [
+        "Planning",
+        "https://nice-centre.adventiste.org/index.php/planning/"
+      ],
+      [
+        "Contact",
+        "https://nice-centre.adventiste.org/#contact-form"
+      ],
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "blog": "Actualités"
+    }
+  },
+  "agenda": {
+    "url": "https://nice-centre.adventiste.org/index.php/agena/",
+    "final": "https://nice-centre.adventiste.org/index.php/agena/",
+    "status": 200,
+    "title": "Agenda - Eglise Adventiste du 7e jour de Nice",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ],
+      [
+        "Etude de la Bible",
+        "https://nice-centre.adventiste.org/index.php/etude-de-la-bible/"
+      ],
+      [
+        "Prière",
+        "https://nice-centre.adventiste.org/index.php/priere/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-centre.adventiste.org/index.php/youth/"
+      ],
+      [
+        "Ministère auprès des enfants",
+        "https://nice-centre.adventiste.org/index.php/ministere-aupres-des-enfants/"
+      ],
+      [
+        "Famille",
+        "https://nice-centre.adventiste.org/index.php/famille/"
+      ],
+      [
+        "Santé",
+        "https://nice-centre.adventiste.org/index.php/sante/"
+      ],
+      [
+        "Mifem",
+        "https://nice-centre.adventiste.org/index.php/mifem/"
+      ],
+      [
+        "Vie d’église",
+        "https://nice-centre.adventiste.org/index.php/vie-deglise/"
+      ],
+      [
+        "Evangélisation & action",
+        "https://nice-centre.adventiste.org/index.php/evangelisation-action/"
+      ],
+      [
+        "Actions sociales",
+        "https://nice-centre.adventiste.org/index.php/actions-sociales/"
+      ],
+      [
+        "Ressources",
+        "https://nice-centre.adventiste.org/index.php/ressources/"
+      ],
+      [
+        "Agenda",
+        "https://nice-centre.adventiste.org/index.php/agena/"
+      ],
+      [
+        "Planning",
+        "https://nice-centre.adventiste.org/index.php/planning/"
+      ],
+      [
+        "Contact",
+        "https://nice-centre.adventiste.org/#contact-form"
+      ],
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "blog": "Actualités"
+    }
+  },
+  "contact": {
+    "url": "https://nice-centre.adventiste.org/#contact-form",
+    "final": "https://nice-centre.adventiste.org/#contact-form",
+    "status": 200,
+    "title": "Église Adventiste Nice Centre",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ],
+      [
+        "Etude de la Bible",
+        "https://nice-centre.adventiste.org/index.php/etude-de-la-bible/"
+      ],
+      [
+        "Prière",
+        "https://nice-centre.adventiste.org/index.php/priere/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-centre.adventiste.org/index.php/youth/"
+      ],
+      [
+        "Ministère auprès des enfants",
+        "https://nice-centre.adventiste.org/index.php/ministere-aupres-des-enfants/"
+      ],
+      [
+        "Famille",
+        "https://nice-centre.adventiste.org/index.php/famille/"
+      ],
+      [
+        "Santé",
+        "https://nice-centre.adventiste.org/index.php/sante/"
+      ],
+      [
+        "Mifem",
+        "https://nice-centre.adventiste.org/index.php/mifem/"
+      ],
+      [
+        "Vie d’église",
+        "https://nice-centre.adventiste.org/index.php/vie-deglise/"
+      ],
+      [
+        "Evangélisation & action",
+        "https://nice-centre.adventiste.org/index.php/evangelisation-action/"
+      ],
+      [
+        "Actions sociales",
+        "https://nice-centre.adventiste.org/index.php/actions-sociales/"
+      ],
+      [
+        "Ressources",
+        "https://nice-centre.adventiste.org/index.php/ressources/"
+      ],
+      [
+        "Agenda",
+        "https://nice-centre.adventiste.org/index.php/agena/"
+      ],
+      [
+        "Planning",
+        "https://nice-centre.adventiste.org/index.php/planning/"
+      ],
+      [
+        "Contact",
+        "https://nice-centre.adventiste.org/#contact-form"
+      ],
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "blog": "Actualités"
+    }
+  },
+  "mentions": {
+    "url": "https://nice-centre.adventiste.org/index.php/mentions-legales-et-politique-de-confidentialite/",
+    "final": "https://nice-centre.adventiste.org/index.php/mentions-legales-et-politique-de-confidentialite/",
+    "status": 200,
+    "title": "Mentions légales et politique de confidentialité - Eglise Adventiste du 7e jour de Nice",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ],
+      [
+        "Etude de la Bible",
+        "https://nice-centre.adventiste.org/index.php/etude-de-la-bible/"
+      ],
+      [
+        "Prière",
+        "https://nice-centre.adventiste.org/index.php/priere/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-centre.adventiste.org/index.php/youth/"
+      ],
+      [
+        "Ministère auprès des enfants",
+        "https://nice-centre.adventiste.org/index.php/ministere-aupres-des-enfants/"
+      ],
+      [
+        "Famille",
+        "https://nice-centre.adventiste.org/index.php/famille/"
+      ],
+      [
+        "Santé",
+        "https://nice-centre.adventiste.org/index.php/sante/"
+      ],
+      [
+        "Mifem",
+        "https://nice-centre.adventiste.org/index.php/mifem/"
+      ],
+      [
+        "Vie d’église",
+        "https://nice-centre.adventiste.org/index.php/vie-deglise/"
+      ],
+      [
+        "Evangélisation & action",
+        "https://nice-centre.adventiste.org/index.php/evangelisation-action/"
+      ],
+      [
+        "Actions sociales",
+        "https://nice-centre.adventiste.org/index.php/actions-sociales/"
+      ],
+      [
+        "Ressources",
+        "https://nice-centre.adventiste.org/index.php/ressources/"
+      ],
+      [
+        "Agenda",
+        "https://nice-centre.adventiste.org/index.php/agena/"
+      ],
+      [
+        "Planning",
+        "https://nice-centre.adventiste.org/index.php/planning/"
+      ],
+      [
+        "Contact",
+        "https://nice-centre.adventiste.org/#contact-form"
+      ],
+      [
+        "Eglise Adventiste du 7e jour de Nice",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://nice-centre.adventiste.org/"
+      ],
+      [
+        "Message d’accueil",
+        "https://nice-centre.adventiste.org/#accueil"
+      ],
+      [
+        "Actualités récentes",
+        "https://nice-centre.adventiste.org/index.php/actualites-recentes/"
+      ],
+      [
+        "Médias",
+        "https://nice-centre.adventiste.org/#media"
+      ],
+      [
+        "Horaires et adresse",
+        "https://nice-centre.adventiste.org/index.php/horaires-et-adresse/"
+      ],
+      [
+        "A propos de nous",
+        "https://nice-centre.adventiste.org/index.php/about/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://nice-centre.adventiste.org/index.php/qui-sommes-nous/"
+      ],
+      [
+        "Notre vision & mission",
+        "https://nice-centre.adventiste.org/index.php/notre-vision-mission/"
+      ],
+      [
+        "Notre histoire",
+        "https://nice-centre.adventiste.org/index.php/notre-histoire/"
+      ],
+      [
+        "Liens utiles",
+        "https://nice-centre.adventiste.org/index.php/liens-utiles/"
+      ],
+      [
+        "Pôles",
+        "https://nice-centre.adventiste.org/index.php/life-church/"
+      ],
+      [
+        "Louange",
+        "https://nice-centre.adventiste.org/index.php/louanges/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "blog": "Actualités",
+      "rgpd": "confidentialité"
+    }
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

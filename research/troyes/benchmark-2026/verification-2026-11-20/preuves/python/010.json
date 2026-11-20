@@ -1,0 +1,22 @@
+{
+  "accueil": {
+    "url": "https://trocadero-ro.adventiste.org",
+    "status": 429,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "a_propos": {
+    "error": "Accueil inaccessible"
+  },
+  "agenda": {
+    "error": "Accueil inaccessible"
+  },
+  "contact": {
+    "error": "Accueil inaccessible"
+  },
+  "mentions": {
+    "error": "Accueil inaccessible"
+  },
+  "don": {
+    "error": "Accueil inaccessible"
+  }
+}

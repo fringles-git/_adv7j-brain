@@ -1,0 +1,493 @@
+{
+  "accueil": {
+    "url": "https://horeb972.interamerica.org/",
+    "final": "https://horeb972.interamerica.org/",
+    "status": 200,
+    "title": "Eglise adventiste du 7ème                                              D'HOREB  - HOREB 972",
+    "cms": null,
+    "links": [
+      [
+        "Page d'accueil",
+        "https://horeb972.interamerica.org/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://horeb972.interamerica.org/qui-sommes-nous"
+      ],
+      [
+        "Historique",
+        "https://horeb972.interamerica.org/historique"
+      ],
+      [
+        "Nos 28 croyances",
+        "https://horeb972.interamerica.org/nos-28-croyances"
+      ],
+      [
+        "Annonces",
+        "https://horeb972.interamerica.org/annonces"
+      ],
+      [
+        "Bible en français version Louis Segond.",
+        "https://horeb972.interamerica.org/bible-en-franais-version-louis-segond"
+      ],
+      [
+        "Ecoute de la bible en français",
+        "https://horeb972.interamerica.org/coute-de-la-bible"
+      ],
+      [
+        "Hymnes et louanges",
+        "https://horeb972.interamerica.org/hymnes-et-louanges"
+      ],
+      [
+        "Les prophéties bibliques video",
+        "https://horeb972.interamerica.org/les-prophties-bibliques-video"
+      ],
+      [
+        "Prédications Video",
+        "https://horeb972.interamerica.org/predications-video"
+      ],
+      [
+        "Musiques  video",
+        "https://horeb972.interamerica.org/musiques-video"
+      ],
+      [
+        "Ecole du sabbat",
+        "https://horeb972.interamerica.org/eds"
+      ],
+      [
+        "Galerie photos",
+        "https://horeb972.interamerica.org/photo_albums"
+      ],
+      [
+        "Actualités",
+        "https://horeb972.interamerica.org/bia"
+      ],
+      [
+        "Evénements",
+        "https://horeb972.interamerica.org/calendars/local-events/listing"
+      ],
+      [
+        "Revue Internationale des Adventistes du 7° jour",
+        "https://horeb972.interamerica.org/revue-internationale-des-adventistes-du-7-jour"
+      ],
+      [
+        "Live Media",
+        "https://horeb972.interamerica.org/live_streams"
+      ],
+      [
+        "Contact",
+        "https://horeb972.interamerica.org/forms/380/form_submissions/new"
+      ],
+      [
+        "Devenez Membre d'Horeb 972",
+        "https://horeb972.interamerica.org/forms/366/form_submissions/new"
+      ],
+      [
+        "Carte Martinique",
+        "https://horeb972.interamerica.org/carte-martinique"
+      ],
+      [
+        "Références bibliques",
+        "https://horeb972.interamerica.org/rfrences-bibliques"
+      ],
+      [
+        "sujets de prière",
+        "https://horeb972.interamerica.org/prayer_requests"
+      ],
+      [
+        "Bienvenue sur le site",
+        "http://stream.metamedia7.com:443/horeblive/myStream/playlist.m3u8"
+      ],
+      [
+        "https://www.adventiste-horeb.org",
+        "https://www.adventiste-horeb.org"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/eglise.horeb"
+      ],
+      [
+        "horeb972",
+        "https://www.youtube.com/live_dashboard"
+      ],
+      [
+        "View Photo Album",
+        "https://horeb972.interamerica.org/photo_albums/2906"
+      ],
+      [
+        "Se connecter",
+        "https://horeb972.interamerica.org/sessions/new?return_to=https%3A%2F%2Fhoreb972.interamerica.org%2F"
+      ]
+    ],
+    "viewport": false,
+    "signaux": {
+      "streaming": "Live",
+      "sermons": "Prédications",
+      "blog": "Actualités",
+      "galerie": "Galerie",
+      "multilingue": "français",
+      "rgpd": "cookies"
+    }
+  },
+  "a_propos": {
+    "url": "https://horeb972.interamerica.org/qui-sommes-nous",
+    "final": "https://horeb972.interamerica.org/qui-sommes-nous",
+    "status": 200,
+    "title": "Eglise adventiste du 7ème                                              D'HOREB  - Qui sommes-nous",
+    "cms": null,
+    "links": [
+      [
+        "Page d'accueil",
+        "https://horeb972.interamerica.org/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://horeb972.interamerica.org/qui-sommes-nous"
+      ],
+      [
+        "Historique",
+        "https://horeb972.interamerica.org/historique"
+      ],
+      [
+        "Nos 28 croyances",
+        "https://horeb972.interamerica.org/nos-28-croyances"
+      ],
+      [
+        "Annonces",
+        "https://horeb972.interamerica.org/annonces"
+      ],
+      [
+        "Bible en français version Louis Segond.",
+        "https://horeb972.interamerica.org/bible-en-franais-version-louis-segond"
+      ],
+      [
+        "Ecoute de la bible en français",
+        "https://horeb972.interamerica.org/coute-de-la-bible"
+      ],
+      [
+        "Hymnes et louanges",
+        "https://horeb972.interamerica.org/hymnes-et-louanges"
+      ],
+      [
+        "Les prophéties bibliques video",
+        "https://horeb972.interamerica.org/les-prophties-bibliques-video"
+      ],
+      [
+        "Prédications Video",
+        "https://horeb972.interamerica.org/predications-video"
+      ],
+      [
+        "Musiques  video",
+        "https://horeb972.interamerica.org/musiques-video"
+      ],
+      [
+        "Ecole du sabbat",
+        "https://horeb972.interamerica.org/eds"
+      ],
+      [
+        "Galerie photos",
+        "https://horeb972.interamerica.org/photo_albums"
+      ],
+      [
+        "Actualités",
+        "https://horeb972.interamerica.org/bia"
+      ],
+      [
+        "Evénements",
+        "https://horeb972.interamerica.org/calendars/local-events/listing"
+      ],
+      [
+        "Revue Internationale des Adventistes du 7° jour",
+        "https://horeb972.interamerica.org/revue-internationale-des-adventistes-du-7-jour"
+      ],
+      [
+        "Live Media",
+        "https://horeb972.interamerica.org/live_streams"
+      ],
+      [
+        "Contact",
+        "https://horeb972.interamerica.org/forms/380/form_submissions/new"
+      ],
+      [
+        "Devenez Membre d'Horeb 972",
+        "https://horeb972.interamerica.org/forms/366/form_submissions/new"
+      ],
+      [
+        "Carte Martinique",
+        "https://horeb972.interamerica.org/carte-martinique"
+      ],
+      [
+        "Références bibliques",
+        "https://horeb972.interamerica.org/rfrences-bibliques"
+      ],
+      [
+        "sujets de prière",
+        "https://horeb972.interamerica.org/prayer_requests"
+      ],
+      [
+        "Lire la présentation dans son intégralité",
+        "https://horeb972.interamerica.org/uploaded_assets/55907"
+      ],
+      [
+        "Se connecter",
+        "https://horeb972.interamerica.org/sessions/new?return_to=https%3A%2F%2Fhoreb972.interamerica.org%2Fqui-sommes-nous"
+      ]
+    ],
+    "viewport": false,
+    "signaux": {
+      "streaming": "Live",
+      "agenda": "événements",
+      "sermons": "Prédications",
+      "blog": "Actualités",
+      "galerie": "Galerie",
+      "multilingue": "français",
+      "rgpd": "cookies"
+    }
+  },
+  "agenda": {
+    "url": "https://horeb972.interamerica.org/calendars/local-events/listing",
+    "final": "https://horeb972.interamerica.org/calendars/local-events/listing",
+    "status": 200,
+    "title": "Eglise adventiste du 7ème                                              D'HOREB  - Local Events",
+    "cms": null,
+    "links": [
+      [
+        "Page d'accueil",
+        "https://horeb972.interamerica.org/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://horeb972.interamerica.org/qui-sommes-nous"
+      ],
+      [
+        "Historique",
+        "https://horeb972.interamerica.org/historique"
+      ],
+      [
+        "Nos 28 croyances",
+        "https://horeb972.interamerica.org/nos-28-croyances"
+      ],
+      [
+        "Annonces",
+        "https://horeb972.interamerica.org/annonces"
+      ],
+      [
+        "Bible en français version Louis Segond.",
+        "https://horeb972.interamerica.org/bible-en-franais-version-louis-segond"
+      ],
+      [
+        "Ecoute de la bible en français",
+        "https://horeb972.interamerica.org/coute-de-la-bible"
+      ],
+      [
+        "Hymnes et louanges",
+        "https://horeb972.interamerica.org/hymnes-et-louanges"
+      ],
+      [
+        "Les prophéties bibliques video",
+        "https://horeb972.interamerica.org/les-prophties-bibliques-video"
+      ],
+      [
+        "Prédications Video",
+        "https://horeb972.interamerica.org/predications-video"
+      ],
+      [
+        "Musiques  video",
+        "https://horeb972.interamerica.org/musiques-video"
+      ],
+      [
+        "Ecole du sabbat",
+        "https://horeb972.interamerica.org/eds"
+      ],
+      [
+        "Galerie photos",
+        "https://horeb972.interamerica.org/photo_albums"
+      ],
+      [
+        "Actualités",
+        "https://horeb972.interamerica.org/bia"
+      ],
+      [
+        "Evénements",
+        "https://horeb972.interamerica.org/calendars/local-events/listing"
+      ],
+      [
+        "Revue Internationale des Adventistes du 7° jour",
+        "https://horeb972.interamerica.org/revue-internationale-des-adventistes-du-7-jour"
+      ],
+      [
+        "Live Media",
+        "https://horeb972.interamerica.org/live_streams"
+      ],
+      [
+        "Contact",
+        "https://horeb972.interamerica.org/forms/380/form_submissions/new"
+      ],
+      [
+        "Devenez Membre d'Horeb 972",
+        "https://horeb972.interamerica.org/forms/366/form_submissions/new"
+      ],
+      [
+        "Carte Martinique",
+        "https://horeb972.interamerica.org/carte-martinique"
+      ],
+      [
+        "Références bibliques",
+        "https://horeb972.interamerica.org/rfrences-bibliques"
+      ],
+      [
+        "sujets de prière",
+        "https://horeb972.interamerica.org/prayer_requests"
+      ],
+      [
+        "Calendar",
+        "https://horeb972.interamerica.org/calendars/local-events"
+      ],
+      [
+        "iCal",
+        "https://horeb972.interamerica.org/calendars/local-events.ics"
+      ],
+      [
+        "RSS",
+        "https://horeb972.interamerica.org/calendars/local-events.atom"
+      ],
+      [
+        "Previous Mois",
+        "https://horeb972.interamerica.org/calendars/local-events/2026/10"
+      ],
+      [
+        "Next Mois",
+        "https://horeb972.interamerica.org/calendars/local-events/2026/12"
+      ],
+      [
+        "Se connecter",
+        "https://horeb972.interamerica.org/sessions/new?return_to=https%3A%2F%2Fhoreb972.interamerica.org%2Fcalendars%2Flocal-events%2Flisting"
+      ]
+    ],
+    "viewport": false,
+    "signaux": {
+      "streaming": "Live",
+      "sermons": "Prédications",
+      "blog": "Actualités",
+      "galerie": "Galerie",
+      "multilingue": "français",
+      "rgpd": "cookies"
+    }
+  },
+  "contact": {
+    "url": "https://horeb972.interamerica.org/forms/380/form_submissions/new",
+    "final": "https://horeb972.interamerica.org/forms/380/form_submissions/new",
+    "status": 200,
+    "title": "",
+    "cms": null,
+    "links": [
+      [
+        "Page d'accueil",
+        "https://horeb972.interamerica.org/"
+      ],
+      [
+        "Qui sommes-nous ?",
+        "https://horeb972.interamerica.org/qui-sommes-nous"
+      ],
+      [
+        "Historique",
+        "https://horeb972.interamerica.org/historique"
+      ],
+      [
+        "Nos 28 croyances",
+        "https://horeb972.interamerica.org/nos-28-croyances"
+      ],
+      [
+        "Annonces",
+        "https://horeb972.interamerica.org/annonces"
+      ],
+      [
+        "Bible en français version Louis Segond.",
+        "https://horeb972.interamerica.org/bible-en-franais-version-louis-segond"
+      ],
+      [
+        "Ecoute de la bible en français",
+        "https://horeb972.interamerica.org/coute-de-la-bible"
+      ],
+      [
+        "Hymnes et louanges",
+        "https://horeb972.interamerica.org/hymnes-et-louanges"
+      ],
+      [
+        "Les prophéties bibliques video",
+        "https://horeb972.interamerica.org/les-prophties-bibliques-video"
+      ],
+      [
+        "Prédications Video",
+        "https://horeb972.interamerica.org/predications-video"
+      ],
+      [
+        "Musiques  video",
+        "https://horeb972.interamerica.org/musiques-video"
+      ],
+      [
+        "Ecole du sabbat",
+        "https://horeb972.interamerica.org/eds"
+      ],
+      [
+        "Galerie photos",
+        "https://horeb972.interamerica.org/photo_albums"
+      ],
+      [
+        "Actualités",
+        "https://horeb972.interamerica.org/bia"
+      ],
+      [
+        "Evénements",
+        "https://horeb972.interamerica.org/calendars/local-events/listing"
+      ],
+      [
+        "Revue Internationale des Adventistes du 7° jour",
+        "https://horeb972.interamerica.org/revue-internationale-des-adventistes-du-7-jour"
+      ],
+      [
+        "Live Media",
+        "https://horeb972.interamerica.org/live_streams"
+      ],
+      [
+        "Contact",
+        "https://horeb972.interamerica.org/forms/380/form_submissions/new"
+      ],
+      [
+        "Devenez Membre d'Horeb 972",
+        "https://horeb972.interamerica.org/forms/366/form_submissions/new"
+      ],
+      [
+        "Carte Martinique",
+        "https://horeb972.interamerica.org/carte-martinique"
+      ],
+      [
+        "Références bibliques",
+        "https://horeb972.interamerica.org/rfrences-bibliques"
+      ],
+      [
+        "sujets de prière",
+        "https://horeb972.interamerica.org/prayer_requests"
+      ],
+      [
+        "Se connecter",
+        "https://horeb972.interamerica.org/sessions/new?return_to=https%3A%2F%2Fhoreb972.interamerica.org%2Fforms%2F380%2Fform_submissions%2Fnew"
+      ]
+    ],
+    "viewport": false,
+    "signaux": {
+      "streaming": "Live",
+      "sermons": "Prédications",
+      "blog": "Actualités",
+      "galerie": "Galerie",
+      "multilingue": "français",
+      "rgpd": "cookies"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

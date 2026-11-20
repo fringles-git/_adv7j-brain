@@ -1,0 +1,84 @@
+{
+  "accueil": {
+    "url": "https://lafontaineqc.adventistchurch.org/",
+    "final": "https://lafontaineqc.adventistchurch.org/",
+    "status": 200,
+    "title": "La Fontaine - Église Adventiste",
+    "cms": null,
+    "links": [
+      [
+        "Études bibliques gratuites",
+        "https://www.apictureofgod.com/"
+      ],
+      [
+        "Dons en ligne",
+        "https://www.adventistgiving.org/donate/AN6PLE"
+      ],
+      [
+        "Obtenir un itinéraire",
+        "https://www.google.com/maps?daddr=6040+Rue+la+Fontaine+Montreal+QC+H1N 2B7"
+      ],
+      [
+        "En savoir plus",
+        "https://www.adventist.org/en/beliefs/"
+      ],
+      [
+        "Stewardship for Mission: 2026 North American Division Treasurer’s Report",
+        "https://www.nadadventist.org/news/stewardship-for-mission-2026-north-american-division-treasurers-report/"
+      ],
+      [
+        "Faith, Flags, and Freedom: Unpacking “Remnant and the Republic”",
+        "https://www.nadadventist.org/news/faith-flags-and-freedom-unpacking-remnant-and-the-republic/"
+      ],
+      [
+        "2026 NAD Annual Council Final Day: “Pray Our Way Out, Grow Our Way Out”",
+        "https://www.nadadventist.org/news/2026-nad-annual-council-final-day-pray-our-way-out-grow-our-way-out/"
+      ],
+      [
+        "Tout voir",
+        "https://www.nadadventist.org/news"
+      ],
+      [
+        "Église adventiste du septième jour en Amérique du Nord",
+        "https://www.nadadventist.org/"
+      ],
+      [
+        "Utilisation de la marque et du logo",
+        "https://adventist.org/trademark-and-logo-usage"
+      ],
+      [
+        "SMS Terms of Service",
+        "https://www.eadventist.net/sms_terms_of_service?org=AN6PLE"
+      ],
+      [
+        "Politique de confidentialité",
+        "https://www.nadadventist.org/legal/frame/privacy-policy/"
+      ],
+      [
+        "Mentions légales",
+        "https://www.nadadventist.org/legal/frame/copyright-policy/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "carte": "itinéraire",
+      "blog": "Actualités",
+      "rgpd": "confidentialité"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

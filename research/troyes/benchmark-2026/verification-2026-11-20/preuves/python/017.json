@@ -1,0 +1,298 @@
+{
+  "accueil": {
+    "url": "https://lyonvendome.adventiste.org/",
+    "final": "https://lyonvendome.adventiste.org/",
+    "status": 200,
+    "title": "Accueil - Eglise Adventiste du Septième Jour de Lyon Vendôme Row wavy Shape",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du Septième Jour de Lyon Vendôme",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Actualités Fédérales",
+        "https://adventisteffs.org/actualite/"
+      ],
+      [
+        "Agenda fédérale",
+        "https://adventisteffs.org/agenda/"
+      ],
+      [
+        "Union Franco-Belge et du Luxembourg",
+        "https://adventiste.org/"
+      ],
+      [
+        "Les programmes à venir",
+        "https://lyonvendome.adventiste.org/agenda/"
+      ],
+      [
+        "Ma santé au quotidien",
+        "https://lyonvendome.adventiste.org/ma-sante-au-quotidien/"
+      ],
+      [
+        "Eglise Adventiste du Septième Jour de Lyon Vendôme",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Actualités Fédérales",
+        "https://adventisteffs.org/actualite/"
+      ],
+      [
+        "Agenda fédérale",
+        "https://adventisteffs.org/agenda/"
+      ],
+      [
+        "Union Franco-Belge et du Luxembourg",
+        "https://adventiste.org/"
+      ],
+      [
+        "Les programmes à venir",
+        "https://lyonvendome.adventiste.org/agenda/"
+      ],
+      [
+        "Ma santé au quotidien",
+        "https://lyonvendome.adventiste.org/ma-sante-au-quotidien/"
+      ],
+      [
+        "Contactez-nous",
+        "https://lyonvendome.adventiste.org/contact-us/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/adventiste.lyonvendome/?igsh=amZtZGI3OWk0c3U5"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UC6DzDT4LQoDi0DPfu9cN12g"
+      ],
+      [
+        "En savoir plus",
+        "https://lyonvendome.adventiste.org/who-we-are/"
+      ],
+      [
+        "Belle écoute! Sois édifié(e)",
+        "https://www.youtube.com/channel/UC6DzDT4LQoDi0DPfu9cN12g"
+      ],
+      [
+        "En savoir plus",
+        "https://lyonvendome.adventiste.org/annonces-locales/"
+      ],
+      [
+        "Neve",
+        "https://themeisle.com/fr/themes/neve/"
+      ],
+      [
+        "WordPress",
+        "https://wordpress.org"
+      ],
+      [
+        "Neve",
+        "https://themeisle.com/fr/themes/neve/"
+      ],
+      [
+        "WordPress",
+        "https://wordpress.org"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "agenda": "Agenda",
+      "sermons": "prédications",
+      "recherche": "Rechercher",
+      "blog": "Actualités"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "url": "https://lyonvendome.adventiste.org/agenda/",
+    "final": "https://lyonvendome.adventiste.org/agenda/",
+    "status": 200,
+    "title": "Protégé : Accès restreint - Eglise Adventiste du Septième Jour de Lyon Vendôme",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du Septième Jour de Lyon Vendôme",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Actualités Fédérales",
+        "https://adventisteffs.org/actualite/"
+      ],
+      [
+        "Agenda fédérale",
+        "https://adventisteffs.org/agenda/"
+      ],
+      [
+        "Union Franco-Belge et du Luxembourg",
+        "https://adventiste.org/"
+      ],
+      [
+        "Les programmes à venir",
+        "https://lyonvendome.adventiste.org/agenda/"
+      ],
+      [
+        "Ma santé au quotidien",
+        "https://lyonvendome.adventiste.org/ma-sante-au-quotidien/"
+      ],
+      [
+        "Eglise Adventiste du Septième Jour de Lyon Vendôme",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Actualités Fédérales",
+        "https://adventisteffs.org/actualite/"
+      ],
+      [
+        "Agenda fédérale",
+        "https://adventisteffs.org/agenda/"
+      ],
+      [
+        "Union Franco-Belge et du Luxembourg",
+        "https://adventiste.org/"
+      ],
+      [
+        "Les programmes à venir",
+        "https://lyonvendome.adventiste.org/agenda/"
+      ],
+      [
+        "Ma santé au quotidien",
+        "https://lyonvendome.adventiste.org/ma-sante-au-quotidien/"
+      ],
+      [
+        "Neve",
+        "https://themeisle.com/fr/themes/neve/"
+      ],
+      [
+        "WordPress",
+        "https://wordpress.org"
+      ],
+      [
+        "Neve",
+        "https://themeisle.com/fr/themes/neve/"
+      ],
+      [
+        "WordPress",
+        "https://wordpress.org"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Rechercher",
+      "blog": "Actualités"
+    }
+  },
+  "contact": {
+    "url": "https://lyonvendome.adventiste.org/agenda/",
+    "final": "https://lyonvendome.adventiste.org/agenda/",
+    "status": 200,
+    "title": "Protégé : Accès restreint - Eglise Adventiste du Septième Jour de Lyon Vendôme",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Eglise Adventiste du Septième Jour de Lyon Vendôme",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Actualités Fédérales",
+        "https://adventisteffs.org/actualite/"
+      ],
+      [
+        "Agenda fédérale",
+        "https://adventisteffs.org/agenda/"
+      ],
+      [
+        "Union Franco-Belge et du Luxembourg",
+        "https://adventiste.org/"
+      ],
+      [
+        "Les programmes à venir",
+        "https://lyonvendome.adventiste.org/agenda/"
+      ],
+      [
+        "Ma santé au quotidien",
+        "https://lyonvendome.adventiste.org/ma-sante-au-quotidien/"
+      ],
+      [
+        "Eglise Adventiste du Septième Jour de Lyon Vendôme",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Accueil",
+        "https://lyonvendome.adventiste.org/"
+      ],
+      [
+        "Actualités Fédérales",
+        "https://adventisteffs.org/actualite/"
+      ],
+      [
+        "Agenda fédérale",
+        "https://adventisteffs.org/agenda/"
+      ],
+      [
+        "Union Franco-Belge et du Luxembourg",
+        "https://adventiste.org/"
+      ],
+      [
+        "Les programmes à venir",
+        "https://lyonvendome.adventiste.org/agenda/"
+      ],
+      [
+        "Ma santé au quotidien",
+        "https://lyonvendome.adventiste.org/ma-sante-au-quotidien/"
+      ],
+      [
+        "Neve",
+        "https://themeisle.com/fr/themes/neve/"
+      ],
+      [
+        "WordPress",
+        "https://wordpress.org"
+      ],
+      [
+        "Neve",
+        "https://themeisle.com/fr/themes/neve/"
+      ],
+      [
+        "WordPress",
+        "https://wordpress.org"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Rechercher",
+      "blog": "Actualités"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

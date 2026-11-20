@@ -1,0 +1,569 @@
+{
+  "accueil": {
+    "url": "https://bthesdaqc.adventistchurch.org/",
+    "final": "https://bthesdaqc.adventistchurch.org/",
+    "status": 200,
+    "title": "Béthesda – Église Adventiste",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Béthesda – Église Adventiste",
+        "https://bthesdaqc.adventistchurch.org"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "search",
+        "https://bthesdaqc.adventistchurch.org/?s"
+      ],
+      [
+        "Get Directions",
+        "https://www.google.com/maps/dir/2523%20Av%20Charland,%20Montreal,%20QC%20H1Z%201C4"
+      ],
+      [
+        "LEARN MORE",
+        "https://www.adventist.org/en/service/"
+      ],
+      [
+        "2523 Av Charland,\n\t\t\t\t\tMontreal,\n\t\t\t\t\tQC H1Z 1C4",
+        "https://www.google.com/maps/dir/2523%20Av%20Charland,%20Montreal,%20QC%20H1Z%201C4"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "North American Division",
+        "https://www.nadadventist.org/"
+      ],
+      [
+        "Adventist Connect",
+        "https://adventistconnect.org/"
+      ],
+      [
+        "SMS Terms of Service",
+        "https://bthesdaqc.adventistchurch.org/sms-terms/"
+      ],
+      [
+        "Privacy Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ],
+      [
+        "Copyright Policy",
+        "https://bthesdaqc.adventistchurch.org/copyright/"
+      ],
+      [
+        "Cookie Settings",
+        "https://bthesdaqc.adventistchurch.org/#gdpr_cookie_modal"
+      ],
+      [
+        "Cookie Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "a_propos": {
+    "url": "https://bthesdaqc.adventistchurch.org/about/",
+    "final": "https://bthesdaqc.adventistchurch.org/about/",
+    "status": 200,
+    "title": "About Us – Béthesda – Église Adventiste",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Béthesda – Église Adventiste",
+        "https://bthesdaqc.adventistchurch.org"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "search",
+        "https://bthesdaqc.adventistchurch.org/?s"
+      ],
+      [
+        "FIND OUT MORE",
+        "https://www.adventist.org/en/beliefs/"
+      ],
+      [
+        "2523 Av Charland,\n\t\t\t\t\tMontreal,\n\t\t\t\t\tQC H1Z 1C4",
+        "https://www.google.com/maps/dir/2523%20Av%20Charland,%20Montreal,%20QC%20H1Z%201C4"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "North American Division",
+        "https://www.nadadventist.org/"
+      ],
+      [
+        "Adventist Connect",
+        "https://adventistconnect.org/"
+      ],
+      [
+        "SMS Terms of Service",
+        "https://bthesdaqc.adventistchurch.org/sms-terms/"
+      ],
+      [
+        "Privacy Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ],
+      [
+        "Copyright Policy",
+        "https://bthesdaqc.adventistchurch.org/copyright/"
+      ],
+      [
+        "Cookie Settings",
+        "https://bthesdaqc.adventistchurch.org/#gdpr_cookie_modal"
+      ],
+      [
+        "Cookie Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "live",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "agenda": {
+    "url": "https://bthesdaqc.adventistchurch.org/calendar/",
+    "final": "https://bthesdaqc.adventistchurch.org/calendar/",
+    "status": 200,
+    "title": "Calendar – Béthesda – Église Adventiste",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Béthesda – Église Adventiste",
+        "https://bthesdaqc.adventistchurch.org"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "search",
+        "https://bthesdaqc.adventistchurch.org/?s"
+      ],
+      [
+        "List",
+        "https://bthesdaqc.adventistchurch.org/events/list/?shortcode=cc150c85"
+      ],
+      [
+        "Month",
+        "https://bthesdaqc.adventistchurch.org/events/month/?shortcode=cc150c85"
+      ],
+      [
+        "Day",
+        "https://bthesdaqc.adventistchurch.org/events/today/?shortcode=cc150c85"
+      ],
+      [
+        "This Month",
+        "https://bthesdaqc.adventistchurch.org/events/month/?pagename=calendar&shortcode=cc150c85"
+      ],
+      [
+        "Oct",
+        "https://bthesdaqc.adventistchurch.org/events/month/2026-10/?shortcode=cc150c85"
+      ],
+      [
+        "This Month",
+        "https://bthesdaqc.adventistchurch.org/events/month/?pagename=calendar&shortcode=cc150c85"
+      ],
+      [
+        "Dec",
+        "https://bthesdaqc.adventistchurch.org/events/month/2026-12/?shortcode=cc150c85"
+      ],
+      [
+        "Google Calendar",
+        "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fbthesdaqc.adventistchurch.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+      ],
+      [
+        "iCalendar",
+        "webcal://bthesdaqc.adventistchurch.org/?post_type=tribe_events&ical=1&eventDisplay=list"
+      ],
+      [
+        "Outlook 365",
+        "https://outlook.office.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fbthesdaqc.adventistchurch.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Béthesda+-+Église+Adventiste+Béthesda+–+Église+Adventiste"
+      ],
+      [
+        "Outlook Live",
+        "https://outlook.live.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fbthesdaqc.adventistchurch.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Béthesda+-+Église+Adventiste+Béthesda+–+Église+Adventiste"
+      ],
+      [
+        "Export .ics file",
+        "https://bthesdaqc.adventistchurch.org/events/month/?shortcode=cc150c85&ical=1"
+      ],
+      [
+        "Export Outlook .ics file",
+        "https://bthesdaqc.adventistchurch.org/events/month/?shortcode=cc150c85&outlook-ical=1#038;ical=1"
+      ],
+      [
+        "2523 Av Charland,\n\t\t\t\t\tMontreal,\n\t\t\t\t\tQC H1Z 1C4",
+        "https://www.google.com/maps/dir/2523%20Av%20Charland,%20Montreal,%20QC%20H1Z%201C4"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "North American Division",
+        "https://www.nadadventist.org/"
+      ],
+      [
+        "Adventist Connect",
+        "https://adventistconnect.org/"
+      ],
+      [
+        "SMS Terms of Service",
+        "https://bthesdaqc.adventistchurch.org/sms-terms/"
+      ],
+      [
+        "Privacy Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ],
+      [
+        "Copyright Policy",
+        "https://bthesdaqc.adventistchurch.org/copyright/"
+      ],
+      [
+        "Cookie Settings",
+        "https://bthesdaqc.adventistchurch.org/#gdpr_cookie_modal"
+      ],
+      [
+        "Cookie Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Live",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "contact": {
+    "url": "https://bthesdaqc.adventistchurch.org/contact/",
+    "final": "https://bthesdaqc.adventistchurch.org/contact/",
+    "status": 200,
+    "title": "Contact Us – Béthesda – Église Adventiste",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Béthesda – Église Adventiste",
+        "https://bthesdaqc.adventistchurch.org"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "search",
+        "https://bthesdaqc.adventistchurch.org/?s"
+      ],
+      [
+        "2523 Av Charland,\n\t\t\t\t\tMontreal,\n\t\t\t\t\tQC H1Z 1C4",
+        "https://www.google.com/maps/dir/2523%20Av%20Charland,%20Montreal,%20QC%20H1Z%201C4"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "North American Division",
+        "https://www.nadadventist.org/"
+      ],
+      [
+        "Adventist Connect",
+        "https://adventistconnect.org/"
+      ],
+      [
+        "SMS Terms of Service",
+        "https://bthesdaqc.adventistchurch.org/sms-terms/"
+      ],
+      [
+        "Privacy Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ],
+      [
+        "Copyright Policy",
+        "https://bthesdaqc.adventistchurch.org/copyright/"
+      ],
+      [
+        "Cookie Settings",
+        "https://bthesdaqc.adventistchurch.org/#gdpr_cookie_modal"
+      ],
+      [
+        "Cookie Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "mentions": {
+    "url": "https://bthesdaqc.adventistchurch.org/privacy/",
+    "final": "https://bthesdaqc.adventistchurch.org/privacy/",
+    "status": 200,
+    "title": "Privacy Policy – Béthesda – Église Adventiste",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Béthesda – Église Adventiste",
+        "https://bthesdaqc.adventistchurch.org"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "Giving",
+        "https://adventistgiving.ca/donate/AN6PBF"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "search",
+        "https://bthesdaqc.adventistchurch.org/?s"
+      ],
+      [
+        "Home",
+        "https://bthesdaqc.adventistchurch.org/"
+      ],
+      [
+        "Home",
+        "https://bthesdaqc.adventistchurch.org/"
+      ],
+      [
+        "2523 Av Charland,\n\t\t\t\t\tMontreal,\n\t\t\t\t\tQC H1Z 1C4",
+        "https://www.google.com/maps/dir/2523%20Av%20Charland,%20Montreal,%20QC%20H1Z%201C4"
+      ],
+      [
+        "About Us",
+        "https://bthesdaqc.adventistchurch.org/about/"
+      ],
+      [
+        "Calendar",
+        "https://bthesdaqc.adventistchurch.org/calendar/"
+      ],
+      [
+        "Contact Us",
+        "https://bthesdaqc.adventistchurch.org/contact/"
+      ],
+      [
+        "North American Division",
+        "https://www.nadadventist.org/"
+      ],
+      [
+        "Adventist Connect",
+        "https://adventistconnect.org/"
+      ],
+      [
+        "SMS Terms of Service",
+        "https://bthesdaqc.adventistchurch.org/sms-terms/"
+      ],
+      [
+        "Privacy Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ],
+      [
+        "Copyright Policy",
+        "https://bthesdaqc.adventistchurch.org/copyright/"
+      ],
+      [
+        "Cookie Settings",
+        "https://bthesdaqc.adventistchurch.org/#gdpr_cookie_modal"
+      ],
+      [
+        "Cookie Policy",
+        "https://bthesdaqc.adventistchurch.org/privacy/"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "recherche": "Search",
+      "rgpd": "Cookies"
+    }
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

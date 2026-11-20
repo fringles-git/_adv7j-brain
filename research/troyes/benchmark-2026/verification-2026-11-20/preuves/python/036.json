@@ -1,0 +1,88 @@
+{
+  "accueil": {
+    "url": "https://boissard.interamerica.org/",
+    "final": "https://boissard.interamerica.org/",
+    "status": 200,
+    "title": "Église adventiste de Boissard - Home",
+    "cms": null,
+    "links": [
+      [
+        "Accueil",
+        "https://boissard.interamerica.org/"
+      ],
+      [
+        "Présentation",
+        "https://boissard.interamerica.org/prsentation"
+      ],
+      [
+        "Bible et prière",
+        "https://boissard.interamerica.org/bible-et-prire"
+      ],
+      [
+        "Annonces et Évènements",
+        "https://boissard.interamerica.org/annonces-et-vnements"
+      ],
+      [
+        "Nous contacter",
+        "https://boissard.interamerica.org/forms/345/form_submissions/new"
+      ],
+      [
+        "Parcourer les sujets Bibliques",
+        "https://boissard.interamerica.org/bibleinfo_topics"
+      ]
+    ],
+    "viewport": false,
+    "signaux": {
+      "rgpd": "cookies"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "url": "https://boissard.interamerica.org/forms/345/form_submissions/new",
+    "final": "https://boissard.interamerica.org/forms/345/form_submissions/new",
+    "status": 200,
+    "title": "",
+    "cms": null,
+    "links": [
+      [
+        "Accueil",
+        "https://boissard.interamerica.org/"
+      ],
+      [
+        "Présentation",
+        "https://boissard.interamerica.org/prsentation"
+      ],
+      [
+        "Bible et prière",
+        "https://boissard.interamerica.org/bible-et-prire"
+      ],
+      [
+        "Annonces et Évènements",
+        "https://boissard.interamerica.org/annonces-et-vnements"
+      ],
+      [
+        "Nous contacter",
+        "https://boissard.interamerica.org/forms/345/form_submissions/new"
+      ],
+      [
+        "Parcourer les sujets Bibliques",
+        "https://boissard.interamerica.org/bibleinfo_topics"
+      ]
+    ],
+    "viewport": false,
+    "signaux": {
+      "rgpd": "cookies"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

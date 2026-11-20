@@ -1,0 +1,310 @@
+{
+  "accueil": {
+    "url": "https://eas7.org/",
+    "final": "https://eas7.org/",
+    "status": 200,
+    "title": "Adventiste - Église Adventiste du 7ème jour de Strasbourg - Seventh-day Adventist - Alsace - France",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Accueil",
+        "http://eas7.org"
+      ],
+      [
+        "François Todesco “Pasteur”",
+        "https://eas7.org/pasteur-2/"
+      ],
+      [
+        "Liseby BEAUPERE – Secrétaire d’église",
+        "https://eas7.org/liseby-beaupere-secretaire-deglise/"
+      ],
+      [
+        "Masséu Rafaël",
+        "https://eas7.org/masseu-rafael/"
+      ],
+      [
+        "Croyances",
+        "https://eas7.org/croyances-fondamentales/"
+      ],
+      [
+        "Liens",
+        "http://eas7.org/liens/"
+      ],
+      [
+        "Contacter l’Eglise",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Adventiste67"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/pages/Église-Adventiste-du-7ème-jour-de-Strasbourg/613372555365023"
+      ],
+      [
+        "YouTube",
+        "http://youtube.com/user/eas7strasbourg67"
+      ],
+      [
+        "Nouveauté…",
+        "https://eas7.org/nouveaute/"
+      ],
+      [
+        "HelloAsso",
+        "https://www.helloasso.com"
+      ],
+      [
+        "Accueil",
+        "http://eas7.org/"
+      ],
+      [
+        "Recevoir une bible",
+        "https://eas7.org/?page_id=1730"
+      ],
+      [
+        "Liens",
+        "https://eas7.org/liens/"
+      ],
+      [
+        "Contact",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Adventiste67"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/pages/Église-Adventiste-du-7ème-jour-de-Strasbourg/613372555365023"
+      ],
+      [
+        "Google+",
+        "https://plus.google.com/100212402320029129101/posts"
+      ],
+      [
+        "YouTube",
+        "http://youtube.com/user/eas7strasbourg67"
+      ],
+      [
+        "Vimeo",
+        "http://vimeo.com/ffn"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "YouTube",
+      "don": "Faire un Don",
+      "sermons": "prédications",
+      "recherche": "Rechercher"
+    }
+  },
+  "a_propos": {
+    "url": "https://eas7.org/croyances-fondamentales/",
+    "final": "https://eas7.org/croyances-fondamentales/",
+    "status": 200,
+    "title": "Croyances fondamentales | Église Adventiste du 7ème jour de Strasbourg - Alsace - Adventistes Strasbourg",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Accueil",
+        "http://eas7.org"
+      ],
+      [
+        "François Todesco “Pasteur”",
+        "https://eas7.org/pasteur-2/"
+      ],
+      [
+        "Liseby BEAUPERE – Secrétaire d’église",
+        "https://eas7.org/liseby-beaupere-secretaire-deglise/"
+      ],
+      [
+        "Masséu Rafaël",
+        "https://eas7.org/masseu-rafael/"
+      ],
+      [
+        "Croyances",
+        "https://eas7.org/croyances-fondamentales/"
+      ],
+      [
+        "Liens",
+        "http://eas7.org/liens/"
+      ],
+      [
+        "Contacter l’Eglise",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Adventiste67"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/pages/Église-Adventiste-du-7ème-jour-de-Strasbourg/613372555365023"
+      ],
+      [
+        "YouTube",
+        "http://youtube.com/user/eas7strasbourg67"
+      ],
+      [
+        "Home",
+        "https://eas7.org"
+      ],
+      [
+        "Croyances fondamentales",
+        "https://eas7.org/croyances-fondamentales/"
+      ],
+      [
+        "Site de l’union des fédérations adventistes de France, de Belgique et du Luxembourg",
+        "http://www.adventiste.org/-les-croyances-fondamentales"
+      ],
+      [
+        "Accueil",
+        "http://eas7.org/"
+      ],
+      [
+        "Recevoir une bible",
+        "https://eas7.org/?page_id=1730"
+      ],
+      [
+        "Liens",
+        "https://eas7.org/liens/"
+      ],
+      [
+        "Contact",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Adventiste67"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/pages/Église-Adventiste-du-7ème-jour-de-Strasbourg/613372555365023"
+      ],
+      [
+        "Google+",
+        "https://plus.google.com/100212402320029129101/posts"
+      ],
+      [
+        "YouTube",
+        "http://youtube.com/user/eas7strasbourg67"
+      ],
+      [
+        "Vimeo",
+        "http://vimeo.com/ffn"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "YouTube"
+    }
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "url": "https://eas7.org/contact/",
+    "final": "https://eas7.org/contact/",
+    "status": 200,
+    "title": "Contact | Église Adventiste du 7ème jour de Strasbourg - Alsace - Adventistes Strasbourg",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Accueil",
+        "http://eas7.org"
+      ],
+      [
+        "François Todesco “Pasteur”",
+        "https://eas7.org/pasteur-2/"
+      ],
+      [
+        "Liseby BEAUPERE – Secrétaire d’église",
+        "https://eas7.org/liseby-beaupere-secretaire-deglise/"
+      ],
+      [
+        "Masséu Rafaël",
+        "https://eas7.org/masseu-rafael/"
+      ],
+      [
+        "Croyances",
+        "https://eas7.org/croyances-fondamentales/"
+      ],
+      [
+        "Liens",
+        "http://eas7.org/liens/"
+      ],
+      [
+        "Contacter l’Eglise",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Adventiste67"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/pages/Église-Adventiste-du-7ème-jour-de-Strasbourg/613372555365023"
+      ],
+      [
+        "YouTube",
+        "http://youtube.com/user/eas7strasbourg67"
+      ],
+      [
+        "Home",
+        "https://eas7.org"
+      ],
+      [
+        "Contact",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Accueil",
+        "http://eas7.org/"
+      ],
+      [
+        "Recevoir une bible",
+        "https://eas7.org/?page_id=1730"
+      ],
+      [
+        "Liens",
+        "https://eas7.org/liens/"
+      ],
+      [
+        "Contact",
+        "https://eas7.org/contact/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Adventiste67"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/pages/Église-Adventiste-du-7ème-jour-de-Strasbourg/613372555365023"
+      ],
+      [
+        "Google+",
+        "https://plus.google.com/100212402320029129101/posts"
+      ],
+      [
+        "YouTube",
+        "http://youtube.com/user/eas7strasbourg67"
+      ],
+      [
+        "Vimeo",
+        "http://vimeo.com/ffn"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "YouTube",
+      "carte": "itinéraire"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

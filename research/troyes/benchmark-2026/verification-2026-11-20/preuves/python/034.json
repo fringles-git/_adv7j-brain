@@ -1,0 +1,66 @@
+{
+  "accueil": {
+    "url": "https://neuchatel-fr.adventiste.ch/",
+    "final": "https://neuchatel-fr.adventiste.ch/",
+    "status": 200,
+    "title": "Église  Adventiste de Neuchâtel",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Arc jurassien",
+        "https://arcjurassien.adventiste.ch/"
+      ],
+      [
+        "Bienne",
+        "https://bienne.adventiste.ch/"
+      ],
+      [
+        "La Chaux-de-Fonds",
+        "https://lachauxdefonds.adventiste.ch/"
+      ],
+      [
+        "Delémont",
+        "https://delemont.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Francophone",
+        "https://neuchatel-fr.adventiste.ch/"
+      ],
+      [
+        "Neuchâtel Luso-Hispanique",
+        "https://neuchatel-lusohispanique.adventiste.ch/"
+      ],
+      [
+        "Bienvenue",
+        "https://neuchatel-fr.adventiste.ch/"
+      ],
+      [
+        "Evénements",
+        "https://neuchatel-fr.adventiste.ch/?page_id=2299"
+      ],
+      [
+        "SiteOrigin",
+        "https://siteorigin.com"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "recherche": "Search"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

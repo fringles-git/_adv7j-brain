@@ -1,0 +1,886 @@
+{
+  "accueil": {
+    "url": "https://www.adventistes-geneve.ch",
+    "final": "https://www.adventistes-geneve.ch",
+    "status": 200,
+    "title": "Accueil – Eglise Adventiste du 7ème Jour Francophone Genève-Cluse - Adventistes-geneve.ch Accueil – Eglise Adventiste du 7ème Jour Francophone Genève-Cluse - Adventistes-geneve.ch Search Menu Seventh-day Adventist logo mark Search Menu Seventh-day Adventist logo mark Arrow Long Arrow Long Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "Adventist.org",
+        "https://www.adventist.org/en/"
+      ],
+      [
+        "Adventiste.ch",
+        "https://www.adventiste.ch/"
+      ],
+      [
+        "ADRA Suisse",
+        "https://adra.ch"
+      ],
+      [
+        "Radio Mondiale Adventiste",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel - France",
+        "http://hopechannel.fr"
+      ],
+      [
+        "Prochains événements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "En savoir plus",
+        "https://www.adventistes-geneve.ch/evenements"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "YouTube",
+      "agenda": "événements",
+      "sermons": "Prédications",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "a_propos": {
+    "url": "https://www.adventistes-geneve.ch/a-propos",
+    "final": "https://www.adventistes-geneve.ch/a-propos",
+    "status": 200,
+    "title": "A propos - Adventistes-geneve.ch A propos - Adventistes-geneve.ch Search Menu Search Menu Seventh-day Adventist logo mark Long right arrow Long right arrow Long right arrow Long right arrow Long right arrow Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "Adventist.org",
+        "https://www.adventist.org/en/"
+      ],
+      [
+        "Adventiste.ch",
+        "https://www.adventiste.ch/"
+      ],
+      [
+        "ADRA Suisse",
+        "https://adra.ch"
+      ],
+      [
+        "Radio Mondiale Adventiste",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel - France",
+        "http://hopechannel.fr"
+      ],
+      [
+        "Le LOGO de l'Église Adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Read More Long right arrow",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "sermons": "Prédications",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "agenda": {
+    "url": "https://www.adventistes-geneve.ch/evenements",
+    "final": "https://www.adventistes-geneve.ch/evenements",
+    "status": 200,
+    "title": "Evénements - Adventistes-geneve.ch Evénements - Adventistes-geneve.ch Search Menu Search Menu Seventh-day Adventist logo mark Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "Adventist.org",
+        "https://www.adventist.org/en/"
+      ],
+      [
+        "Adventiste.ch",
+        "https://www.adventiste.ch/"
+      ],
+      [
+        "ADRA Suisse",
+        "https://adra.ch"
+      ],
+      [
+        "Radio Mondiale Adventiste",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel - France",
+        "http://hopechannel.fr"
+      ],
+      [
+        "Semaine de Réflexion Biblique et de Prière | 31.10-7.11.2026",
+        "https://www.adventistes-geneve.ch/liste-evenements/semaine-de-reflexion-biblique-et-de-priere-31-10-07-11-2026"
+      ],
+      [
+        "Semaine de Réflexion Biblique et de Prière | 31.10-7.11.2026",
+        "https://www.adventistes-geneve.ch/liste-evenements/semaine-de-reflexion-biblique-et-de-priere-31-10-07-11-2026"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "sermons": "Prédications",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "contact": {
+    "url": "https://www.adventistes-geneve.ch/contact",
+    "final": "https://www.adventistes-geneve.ch/contact",
+    "status": 200,
+    "title": "Contact - Adventistes-geneve.ch Contact - Adventistes-geneve.ch Search Menu Search Menu Seventh-day Adventist logo mark Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "Adventist.org",
+        "https://www.adventist.org/en/"
+      ],
+      [
+        "Adventiste.ch",
+        "https://www.adventiste.ch/"
+      ],
+      [
+        "ADRA Suisse",
+        "https://adra.ch"
+      ],
+      [
+        "Radio Mondiale Adventiste",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel - France",
+        "http://hopechannel.fr"
+      ],
+      [
+        "En savoir plus",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Semaine de prière 2026 8/8 “REBOOT ensemble”",
+        "https://www.adventistes-geneve.ch/nicolas-walther/semaine-de-priere-2026-8-8-reboot-ensemble"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "sermons": "Prédications",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "url": "https://www.adventistes-geneve.ch/don/",
+    "final": "https://www.adventistes-geneve.ch/don",
+    "status": 200,
+    "title": "Dîmes et offrandes - Adventistes-geneve.ch Dîmes et offrandes - Adventistes-geneve.ch Search Menu Search Menu Seventh-day Adventist logo mark Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Accueil",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "A propos",
+        "https://www.adventistes-geneve.ch/a-propos"
+      ],
+      [
+        "Qui sommes-nous?",
+        "https://www.adventistes-geneve.ch/a-propos/qui-sommes-nous"
+      ],
+      [
+        "Message adventiste",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Rencontrez nos pasteurs",
+        "https://www.adventistes-geneve.ch/a-propos/rencontrez-nos-pasteurs"
+      ],
+      [
+        "Ministères",
+        "https://www.adventistes-geneve.ch/a-propos/ministeres"
+      ],
+      [
+        "Notre logo",
+        "https://www.adventistes-geneve.ch/a-propos/le-logo-de-leglise-adventiste"
+      ],
+      [
+        "Evénements",
+        "https://www.adventistes-geneve.ch/evenements"
+      ],
+      [
+        "Média",
+        "https://www.adventistes-geneve.ch/media"
+      ],
+      [
+        "A l'écoute du texte",
+        "https://www.adventistes-geneve.ch/categorie/a-l-ecoute-du-texte"
+      ],
+      [
+        "Cultes et Prédications",
+        "https://www.adventistes-geneve.ch/media/predications"
+      ],
+      [
+        "Prière",
+        "https://www.adventistes-geneve.ch/categorie/priere"
+      ],
+      [
+        "Contact",
+        "https://www.adventistes-geneve.ch/contact"
+      ],
+      [
+        "Don",
+        "https://www.adventistes-geneve.ch/don/"
+      ],
+      [
+        "Annonces",
+        "https://www.adventistes-geneve.ch/annonces/"
+      ],
+      [
+        "News",
+        "https://www.adventistes-geneve.ch/news/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://www.adventistes-geneve.ch/"
+      ],
+      [
+        "Adventist.org",
+        "https://www.adventist.org/en/"
+      ],
+      [
+        "Adventiste.ch",
+        "https://www.adventiste.ch/"
+      ],
+      [
+        "ADRA Suisse",
+        "https://adra.ch"
+      ],
+      [
+        "Radio Mondiale Adventiste",
+        "https://www.awr.org/"
+      ],
+      [
+        "Hope Channel - France",
+        "http://hopechannel.fr"
+      ],
+      [
+        "En savoir plus",
+        "https://www.adventistes-geneve.ch/a-propos/le-message-adventiste"
+      ],
+      [
+        "Semaine de prière 2026 8/8 “REBOOT ensemble”",
+        "https://www.adventistes-geneve.ch/nicolas-walther/semaine-de-priere-2026-8-8-reboot-ensemble"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "streaming": "Youtube",
+      "sermons": "Prédications",
+      "recherche": "Search",
+      "rgpd": "cookies"
+    }
+  }
+}

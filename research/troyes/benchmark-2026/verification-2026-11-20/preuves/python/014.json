@@ -1,0 +1,117 @@
+{
+  "accueil": {
+    "url": "https://verviers.adventiste.be",
+    "final": "https://verviers.adventiste.be",
+    "status": 200,
+    "title": "Eglise Adventiste Verviers",
+    "cms": null,
+    "links": [
+      [
+        "Accueil",
+        "https://verviers.adventiste.be/index.php"
+      ],
+      [
+        "Des racines",
+        "https://verviers.adventiste.be/QuiSommesNousRacines.php"
+      ],
+      [
+        "Nos croyances",
+        "https://verviers.adventiste.be/QuiSommesNosCoyances1.php"
+      ],
+      [
+        "Nos croyances fondamentales",
+        "https://verviers.adventiste.be/28_Croyance_Fondamentales.pdf"
+      ],
+      [
+        "Organisation mondiale",
+        "https://verviers.adventiste.be/OrganisationMondiale.php"
+      ],
+      [
+        "L'adventisme en Belgique",
+        "https://verviers.adventiste.be/OrganisationAdventismeEnBelgique.php"
+      ],
+      [
+        "Un coeur: La Bible",
+        "https://verviers.adventiste.be/EtudeBibleUnCoeur.php"
+      ],
+      [
+        "Des bras, des jambes",
+        "https://verviers.adventiste.be/ActionsSociales.php"
+      ],
+      [
+        "Via Google Maps",
+        "https://maps.app.goo.gl/pqw4e5sWnnZx837t5"
+      ],
+      [
+        "ViaMichelin",
+        "https://www.viamichelin.fr/?bounds=5.842383794906616~50.57770012576257~5.8601722050933835~50.58993187423743¢er=5.851278~50.583816&filters=%7B%"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "don": "faire un don",
+      "carte": "Google Maps"
+    }
+  },
+  "a_propos": {
+    "url": "https://verviers.adventiste.be/QuiSommesNosCoyances1.php",
+    "final": "https://verviers.adventiste.be/QuiSommesNosCoyances1.php",
+    "status": 200,
+    "title": "Eglise Adventiste Verviers",
+    "cms": null,
+    "links": [
+      [
+        "Accueil",
+        "https://verviers.adventiste.be/index.php"
+      ],
+      [
+        "Des racines",
+        "https://verviers.adventiste.be/QuiSommesNousRacines.php"
+      ],
+      [
+        "Nos croyances",
+        "https://verviers.adventiste.be/QuiSommesNosCoyances1.php"
+      ],
+      [
+        "Nos croyances fondamentales",
+        "https://verviers.adventiste.be/28_Croyance_Fondamentales.pdf"
+      ],
+      [
+        "Organisation mondiale",
+        "https://verviers.adventiste.be/OrganisationMondiale.php"
+      ],
+      [
+        "L'adventisme en Belgique",
+        "https://verviers.adventiste.be/OrganisationAdventismeEnBelgique.php"
+      ],
+      [
+        "Un coeur: La Bible",
+        "https://verviers.adventiste.be/EtudeBibleUnCoeur.php"
+      ],
+      [
+        "Des bras, des jambes",
+        "https://verviers.adventiste.be/ActionsSociales.php"
+      ],
+      [
+        "Voir : Synthèse de la foi fondamentale (28 Croyances Fondamentales)",
+        "https://verviers.adventiste.be/28_Croyance_Fondamentales.pdf"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "événements"
+    }
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

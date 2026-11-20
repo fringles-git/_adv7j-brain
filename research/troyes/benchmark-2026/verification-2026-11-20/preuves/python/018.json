@@ -1,0 +1,52 @@
+{
+  "accueil": {
+    "url": "https://lyonmontsdor.adventiste.org/",
+    "final": "https://lyonmontsdor.adventiste.org/",
+    "status": 200,
+    "title": "Eglise Adventiste du 7ème Jour de Lyon | Mont d'Or | Val-de-Saône | Mâcon",
+    "cms": "Wix",
+    "links": [
+      [
+        "Église Adventiste du 7ème Jour",
+        "https://lyonmontsdor.adventiste.org"
+      ],
+      [
+        "ESPACE MEMBRES",
+        "https://lyonmontsdor.adventiste.org/espace-membres"
+      ],
+      [
+        "Accueil",
+        "https://lyonmontsdor.adventiste.org"
+      ],
+      [
+        "CARPE DIEM",
+        "https://lyonmontsdor.adventiste.org/post/carpe-diem"
+      ],
+      [
+        "Politique de confidentialité",
+        "https://lyonmontsdor.adventiste.org/confidentialités"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "rgpd": "confidentialité"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "mentions": {
+    "url": "https://lyonmontsdor.adventiste.org/confidentialités",
+    "status": null,
+    "error": "'ascii' codec can't encode character '\\xe9' in position 19: ordinal not in range(128)"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

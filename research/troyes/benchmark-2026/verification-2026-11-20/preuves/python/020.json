@@ -1,0 +1,22 @@
+{
+  "accueil": {
+    "url": "https://www.parissud130.fr/",
+    "status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  "a_propos": {
+    "error": "Accueil inaccessible"
+  },
+  "agenda": {
+    "error": "Accueil inaccessible"
+  },
+  "contact": {
+    "error": "Accueil inaccessible"
+  },
+  "mentions": {
+    "error": "Accueil inaccessible"
+  },
+  "don": {
+    "error": "Accueil inaccessible"
+  }
+}

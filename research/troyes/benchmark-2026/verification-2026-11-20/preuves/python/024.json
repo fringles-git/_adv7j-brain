@@ -1,0 +1,363 @@
+{
+  "accueil": {
+    "url": "https://nice-resonance.adventiste.org/accueil/",
+    "final": "https://nice-resonance.adventiste.org/accueil/",
+    "status": 200,
+    "title": "Accueil - Eglise Nice-Résonance Search Menu Search Menu Seventh-day Adventist logo mark Three horizontal bars Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Accueil",
+        "https://nice-resonance.adventiste.org/accueil/"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "Anniversaire",
+        "https://nice-resonance.adventiste.org/anniversaire/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Notre charte",
+        "https://nice-resonance.adventiste.org/notre-charte/"
+      ],
+      [
+        "Contact",
+        "https://nice-resonance.adventiste.org/contact/"
+      ],
+      [
+        "Accueil",
+        "https://nice-resonance.adventiste.org/accueil/"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "Anniversaire",
+        "https://nice-resonance.adventiste.org/anniversaire/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Notre charte",
+        "https://nice-resonance.adventiste.org/notre-charte/"
+      ],
+      [
+        "Contact",
+        "https://nice-resonance.adventiste.org/contact/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://nice-resonance.adventiste.org/"
+      ],
+      [
+        "BIA - ANN",
+        "https://actualites.adventiste.org/"
+      ],
+      [
+        "Fédération Sud de la France",
+        "https://adventisteffs.org/"
+      ],
+      [
+        "AdventPlay",
+        "https://adventplay.tv/"
+      ],
+      [
+        "ADRA France",
+        "https://adra.fr/"
+      ],
+      [
+        "Radio Adventiste Mondiale",
+        "https://awr.org/listen/location/FR"
+      ],
+      [
+        "les enseignements bibliques",
+        "https://www.adventiste.org/blog/nos-croyances-fondamentales"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "nos programmes de jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/nice_resonance_adventiste/"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/grouperesonance/"
+      ],
+      [
+        "Three horizontal bars LOGOS ET MARQUES",
+        "https://www.adventist.org/trademark-and-logo-usage/"
+      ],
+      [
+        "Three horizontal bars MENTIONS LÉGALES",
+        "https://www.adventiste.org/blog/mentions-legales-et-politique-de-confidentialite"
+      ],
+      [
+        "Three horizontal bars POLITIQUE DE CONFIDENTIALITÉ",
+        "https://www.adventiste.org/blog/mentions-legales-et-politique-de-confidentialite"
+      ],
+      [
+        "OneTap",
+        "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Search",
+      "multilingue": "Français",
+      "rgpd": "CONFIDENTIALITÉ"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "url": "https://nice-resonance.adventiste.org/events-directory/",
+    "final": "https://nice-resonance.adventiste.org/events-directory/",
+    "status": 200,
+    "title": "Agenda - Eglise Nice-Résonance Search Menu Search Menu Seventh-day Adventist logo mark Three horizontal bars Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Accueil",
+        "https://nice-resonance.adventiste.org/accueil/"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "Anniversaire",
+        "https://nice-resonance.adventiste.org/anniversaire/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Notre charte",
+        "https://nice-resonance.adventiste.org/notre-charte/"
+      ],
+      [
+        "Contact",
+        "https://nice-resonance.adventiste.org/contact/"
+      ],
+      [
+        "Accueil",
+        "https://nice-resonance.adventiste.org/accueil/"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "Anniversaire",
+        "https://nice-resonance.adventiste.org/anniversaire/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Notre charte",
+        "https://nice-resonance.adventiste.org/notre-charte/"
+      ],
+      [
+        "Contact",
+        "https://nice-resonance.adventiste.org/contact/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://nice-resonance.adventiste.org/"
+      ],
+      [
+        "BIA - ANN",
+        "https://actualites.adventiste.org/"
+      ],
+      [
+        "Fédération Sud de la France",
+        "https://adventisteffs.org/"
+      ],
+      [
+        "AdventPlay",
+        "https://adventplay.tv/"
+      ],
+      [
+        "ADRA France",
+        "https://adra.fr/"
+      ],
+      [
+        "Radio Adventiste Mondiale",
+        "https://awr.org/listen/location/FR"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/nice_resonance_adventiste/"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/grouperesonance/"
+      ],
+      [
+        "Three horizontal bars LOGOS ET MARQUES",
+        "https://www.adventist.org/trademark-and-logo-usage/"
+      ],
+      [
+        "Three horizontal bars MENTIONS LÉGALES",
+        "https://www.adventiste.org/blog/mentions-legales-et-politique-de-confidentialite"
+      ],
+      [
+        "Three horizontal bars POLITIQUE DE CONFIDENTIALITÉ",
+        "https://www.adventiste.org/blog/mentions-legales-et-politique-de-confidentialite"
+      ],
+      [
+        "OneTap",
+        "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Search",
+      "multilingue": "Français",
+      "rgpd": "CONFIDENTIALITÉ"
+    }
+  },
+  "contact": {
+    "url": "https://nice-resonance.adventiste.org/contact/",
+    "final": "https://nice-resonance.adventiste.org/contact/",
+    "status": 200,
+    "title": "Contact - Eglise Nice-Résonance Search Menu Search Menu Seventh-day Adventist logo mark Three horizontal bars Three horizontal bars Three horizontal bars Seventh-day Adventist logo mark Seventh-day Adventist logo mark",
+    "cms": "WordPress",
+    "links": [
+      [
+        "Accueil",
+        "https://nice-resonance.adventiste.org/accueil/"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "Anniversaire",
+        "https://nice-resonance.adventiste.org/anniversaire/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Notre charte",
+        "https://nice-resonance.adventiste.org/notre-charte/"
+      ],
+      [
+        "Contact",
+        "https://nice-resonance.adventiste.org/contact/"
+      ],
+      [
+        "Accueil",
+        "https://nice-resonance.adventiste.org/accueil/"
+      ],
+      [
+        "Agenda",
+        "https://nice-resonance.adventiste.org/events-directory/"
+      ],
+      [
+        "Anniversaire",
+        "https://nice-resonance.adventiste.org/anniversaire/"
+      ],
+      [
+        "Jeunesse",
+        "https://nice-resonance.adventiste.org/ja/"
+      ],
+      [
+        "Notre charte",
+        "https://nice-resonance.adventiste.org/notre-charte/"
+      ],
+      [
+        "Contact",
+        "https://nice-resonance.adventiste.org/contact/"
+      ],
+      [
+        "Seventh-day Adventist logo mark",
+        "https://nice-resonance.adventiste.org/"
+      ],
+      [
+        "BIA - ANN",
+        "https://actualites.adventiste.org/"
+      ],
+      [
+        "Fédération Sud de la France",
+        "https://adventisteffs.org/"
+      ],
+      [
+        "AdventPlay",
+        "https://adventplay.tv/"
+      ],
+      [
+        "ADRA France",
+        "https://adra.fr/"
+      ],
+      [
+        "Radio Adventiste Mondiale",
+        "https://awr.org/listen/location/FR"
+      ],
+      [
+        "Frank Rakotozafy , Pasteur",
+        "https://qrco.de/FRAKOTOZAFY"
+      ],
+      [
+        "Instagram",
+        "https://www.instagram.com/nice_resonance_adventiste/"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/grouperesonance/"
+      ],
+      [
+        "Three horizontal bars LOGOS ET MARQUES",
+        "https://www.adventist.org/trademark-and-logo-usage/"
+      ],
+      [
+        "Three horizontal bars MENTIONS LÉGALES",
+        "https://www.adventiste.org/blog/mentions-legales-et-politique-de-confidentialite"
+      ],
+      [
+        "Three horizontal bars POLITIQUE DE CONFIDENTIALITÉ",
+        "https://www.adventiste.org/blog/mentions-legales-et-politique-de-confidentialite"
+      ],
+      [
+        "OneTap",
+        "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "Agenda",
+      "recherche": "Search",
+      "multilingue": "Français",
+      "rgpd": "CONFIDENTIALITÉ"
+    }
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}

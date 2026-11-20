@@ -1,0 +1,39 @@
+{
+  "accueil": {
+    "url": "https://toulousegospel.adventiste.org/",
+    "final": "https://toulousegospel.adventiste.org/",
+    "status": 200,
+    "title": "Gospel Célébration — Toulouse",
+    "cms": null,
+    "links": [
+      [
+        "Voir l'itinéraire ↗",
+        "https://www.google.com/maps/search/?api=1&query=9+rue+Joutx-Aigues+Toulouse"
+      ],
+      [
+        "Nous trouver ↗",
+        "https://www.google.com/maps/search/?api=1&query=9+rue+Joutx-Aigues+Toulouse"
+      ]
+    ],
+    "viewport": true,
+    "signaux": {
+      "agenda": "AGENDA",
+      "carte": "itinéraire"
+    }
+  },
+  "a_propos": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "agenda": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "contact": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "mentions": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  },
+  "don": {
+    "error": "Aucun lien correspondant identifié dans les liens collectés en accueil"
+  }
+}
