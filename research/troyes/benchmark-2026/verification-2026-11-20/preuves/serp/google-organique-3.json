@@ -1,0 +1,154 @@
+{
+  "city": "Troyes",
+  "query": "église Troyes",
+  "status": 20000,
+  "error": "Ok.",
+  "status_message": "Ok.",
+  "check_url": "https://www.google.com/search?q=%C3%A9glise%20Troyes&hl=fr&gl=FR&ie=UTF-8&uule=w+CAIQIFISCbG3h-dXmO5HEXVP6GZVEt1X",
+  "datetime": "2026-11-20 09:22:04 +00:00",
+  "location_code": 1005929,
+  "types": [
+    "ai_overview",
+    "local_pack",
+    "compare_sites",
+    "organic",
+    "people_also_ask",
+    "video",
+    "images"
+  ],
+  "org": [
+    {
+      "rank": 1,
+      "absolute": 8,
+      "title": "cathédrale, collégiales et églises paroissiales",
+      "website": "GrandEst",
+      "url": "https://google.com/goto?url=CAESpwEBxCJF1-phHfQwgxQY5nipzcWf-HFLJHW-FPyQvfJYyosXXxus7FvAAyqEBj3A8rm1xtyzjBVGFsMQQexjaOfZQgYHwFlmpLa0ETvMCGZG594L0CNNhFV-BgtcXz_wy2yB6hYKf6L6YL77lbD9UmYoaNxzsuuhsVm9NoTof-kmWB4uMgcHOFgyKyJnayTLgqJSf7mNG6d7movG25VQLdcD4Q_tvOVUlQ&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://sri.grandest.fr › Publications"
+    },
+    {
+      "rank": 2,
+      "absolute": 11,
+      "title": "Route du Vitrail : église Saint-Nicolas de Troyes (Aube)",
+      "website": "YouTube · Cité du Vitrail",
+      "url": "https://google.com/goto?url=CAESZwHEIkXXan9jrCKqvxMNUNKL4DgTseFT49YCGWyvtOEXs9_xW00hJe-4chz2so137qMZzOrD7gacjQhjc9c54hMlK34YvLbSzqsupi4gP8vSOLE6_UngTHBUaUfoJRoYMC_1iGOfe3g&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "Plus de 340 vues  ·  il y a 5 ans"
+    },
+    {
+      "rank": 3,
+      "absolute": 12,
+      "title": "Vitraux de l'Eglise Saint Nicolas à Troyes dans l'Aube",
+      "website": "Mes vitraux favoris",
+      "url": "https://google.com/goto?url=CAESeQHEIkXXCE1vIMbLG5fpWOf6g6Xhwtn5HHzuOkvYaqRlt5v2I5TKHc-y27XCF4APWPq_1o8JcfK9oEk24FwxyKmV1WANtxGbHn0oYrP_1ezqJQR5xnUkYVtRulNOGXpPTbVE4ROkFVTB8p59rvpGzkUm1Mr27hespR4&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://www.mesvitrauxfavoris.fr › saint nicolas troyes"
+    },
+    {
+      "rank": 4,
+      "absolute": 13,
+      "title": "Eglise Saint-Jean-au-Marché (Troyes)",
+      "website": "Tripadvisor",
+      "url": "https://google.com/goto?url=CAEStwEBxCJF17nY53YnOSLmbWEOVCMcSm-EM-ntCva772a-P2ICYJhf6hoO9ftDHiiK_eSSTj5_w1Nc8mKfUPIravjES_ugfLYc4YrXVOjw4e0llpyCeWWIRLGU6Zg2f7X5n3fCACbpgQjpSa5cXZ1wYSRXudeebzEEcKUDlDRiD0_U-_lnhF5Z-nlVqkDId5im4ZyhLu9n367VSoCVUaGhUudYilS2XSGo5zINJXqNJGBSU9H11j02jtA&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://fr.tripadvisor.be › ... › Troyes : toutes les activités"
+    },
+    {
+      "rank": 5,
+      "absolute": 15,
+      "title": "Troyes, Eglise paroissiale Sainte-Madeleine",
+      "website": "INHA - Institut national d'histoire de l'art",
+      "url": "https://google.com/goto?url=CAESggEBxCJF1-UvRcN_n1OmpbdMbtYWDnUGwVNFOp52i08jmwDtNWLbkDHDr9iXb03PUEkdGgceL6Yr7NImCx8FbSRVw2kcyKw-lB89liYodCCSIhtPT4-FX-5NaWfVz3Fchwcba6ktZ7tryLVHseAJQBDA1-o8kwBsB8u4mSBfi-d-7UcI&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://agorha.inha.fr › ark:"
+    },
+    {
+      "rank": 6,
+      "absolute": 16,
+      "title": "Eglise Saint-Martin-es-Vignes à Troyes",
+      "website": "Aube Champagne",
+      "url": "https://google.com/goto?url=CAESgAEBxCJF17WQUV6V4W-rZaYS0-wjLG0SwgwcINgWgvHHSbGdNHtt1a9MBphzZddn9-duo5w5O2q3TIWw4lWuE-gljlEyN3gUQz39HDYkWVTFCWFyD6_Xin2wgVgkN9uRcUI_YXznPaqJzVLSP3FzwS0k6ktLdSWWIrTzm1IKNGyAPA&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://www.aube-champagne.com › poi › eglise-saint-..."
+    },
+    {
+      "rank": 7,
+      "absolute": 18,
+      "title": "Cathédrale de Troyes - visite guidée (Aube, Grand Est)",
+      "website": "MesSortiesCulture",
+      "url": "https://google.com/goto?url=CAESlwEBxCJF1y808SubOK1jgYlz9VohZRV6MokL1nO7b-Jy6bD4a_flgIxkA9tMPOwdn6M0xHomRBBab5US4iaarlAUqdmLXMFyvyTucr6rfH-7BFm3sEJdEd70aDwVdgmMTESWtbKXspwwigI5nhCQcHtdUbNFPugx_2sJVXxjQYDnHEweR2sRjRXP92SmzuZ1eyFNoTtWUQta&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://www.messortiesculture.com › Visites guidées"
+    },
+    {
+      "rank": 8,
+      "absolute": 19,
+      "title": "Église Saint-Martin-lès-Vignes",
+      "website": "Observatoire du Patrimoine Religieux",
+      "url": "https://google.com/goto?url=CAESsgEBxCJF13jcBIQ-fBxi9f5avkJKno2LzUaiwawBYXTy_nVVPYv3ZFZtdJJlhUxx1vkMBhyTmPf_Gqi7v37MGiKkd7ZIlDzqNNgllaYLTOXJIuEuVm1S3DPTELL_axVu05l2ouQjG1bignEt9Kva3mfWwqAykcM8_k2iM2HXE4KxTjUNhy2DgYJkArdxEKfX20aGNXMVT6mofTU5ESedTn-U-Tm6DVwT-Zwe5FyZuO54_qp6&gsessionid=7tYDB1yxx0zONWz8KjEZtw8FT27IZwbtyQCc9HdscNB9bjWtbi5OzQ",
+      "breadcrumb": "https://recensement.patrimoine-religieux.fr › 10-Aube"
+    },
+    {
+      "rank": 9,
+      "absolute": 20,
+      "title": "Église Saint-Martin-lès-Vignes",
+      "website": "Observatoire du Patrimoine Religieux",
+      "url": "https://google.com/goto?url=CAESsgEBxCJF1-TfbGim-1aj__QOsS_twjofM8BYpqm5MYHAhEBY0V36twH3F-CmJqGlz3Y4e-rRgvOslSy2jwez3qAHO8AYcxCZ1wmhMh4hJJniQShA7VwBGjsYLucqJsuwaABePSoc4fJbpH0F21Vk-kzGntqo6re0lw7ElT65ZAB4sJwTcbFW9_1mXbC3JN_sxNheLjIPIp_yLNKh1IJUlvPdfmJiMtGEP7B_lJIl_p5SaQ4p&gsessionid=r7ICzgdgnkGKDk836q2idJN9NjLoWgE7Qa0eJtzPRCn7BnT1GmxYig",
+      "breadcrumb": "https://recensement.patrimoine-religieux.fr › 10-Aube"
+    },
+    {
+      "rank": 10,
+      "absolute": 21,
+      "title": "Eglise Saint Nicolas à Troyes",
+      "website": "PagesJaunes",
+      "url": "https://google.com/goto?url=CAESZAHEIkXXkVYOgDn0tOoPYc8GfAqW8vJJ_eYXfoMu3LAVEYHJ4UhaKEk6SsVhkiE42fJc-0LJ5czUoBw2P2wobNFYvbIFlGUd9MOjMgSCUC7WH_mwT9_ygB8ChJNW1DjGpVuRvy4&gsessionid=r7ICzgdgnkGKDk836q2idJN9NjLoWgE7Qa0eJtzPRCn7BnT1GmxYig",
+      "breadcrumb": "https://www.pagesjaunes.fr › pros"
+    }
+  ],
+  "maps": [
+    {
+      "type": "local_pack",
+      "title": "Eglise Sainte Madeleine",
+      "cid": null,
+      "rating": null
+    },
+    {
+      "type": "local_pack",
+      "title": "Cathédrale Saint Pierre Saint Paul",
+      "cid": null,
+      "rating": null
+    },
+    {
+      "type": "local_pack",
+      "title": "Eglise Saint Urbain",
+      "cid": null,
+      "rating": null
+    },
+    {
+      "type": "local_pack",
+      "title": "Église Sainte-Madeleine",
+      "cid": null,
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.7,
+        "votes_count": 402,
+        "rating_max": 5
+      }
+    },
+    {
+      "type": "local_pack",
+      "title": "Église Saint-Jean-au-Marché de Troyes",
+      "cid": null,
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.5,
+        "votes_count": 108,
+        "rating_max": 5
+      }
+    },
+    {
+      "type": "local_pack",
+      "title": "Cathédrale Saint-Pierre Saint-Paul",
+      "cid": null,
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.6,
+        "votes_count": 3900,
+        "rating_max": 5
+      }
+    }
+  ]
+}

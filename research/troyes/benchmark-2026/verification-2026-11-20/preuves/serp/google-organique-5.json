@@ -1,0 +1,119 @@
+{
+  "city": "Reims",
+  "query": "église adventiste Reims",
+  "status": 20000,
+  "error": "Ok.",
+  "status_message": "Ok.",
+  "check_url": "https://www.google.com/search?q=%C3%A9glise%20adventiste%20Reims&hl=fr&gl=FR&ie=UTF-8&uule=w+CAIQIFISCQk7U0ozdOlHEcBFO5q5XwoE",
+  "datetime": "2026-11-20 09:22:06 +00:00",
+  "location_code": 1005925,
+  "types": [
+    "ai_overview",
+    "organic",
+    "people_also_ask",
+    "images",
+    "google_reviews",
+    "knowledge_graph"
+  ],
+  "org": [
+    {
+      "rank": 1,
+      "absolute": 2,
+      "title": "Quand spontanément, un chant de reconnaissance s' ...",
+      "website": "Instagram · reims.advent",
+      "url": "https://google.com/goto?url=CAESaAHEIkXXlqH9okoBrIJzuDDE6TYF-fe8QVE90JhotODkwesqzNnXo2AvPXvUZE_9zqvarvBa5iVqKJg8c3spXS1-1KfZwVmgW7TDnMosO6n0NqU4zO6CW8OXrAyqXlCeUttUdI_2SSQ-&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "Plus de 40 \"J'aime\"  ·  il y a 2 ans"
+    },
+    {
+      "rank": 2,
+      "absolute": 4,
+      "title": "Eglise Adventiste du Septième Jour",
+      "website": "Tripadvisor",
+      "url": "https://google.com/goto?url=CAESywEBxCJF1_VK1Rbb4DrM4ldtfzFoJJBtLvo6H5fhDG20YL1LuKmaXY7rkFHhwQnC__vTLZ0VZIc4sCnY106ggueOhOwhOkDki2MPA6diEjengsQbF-z37f0-28TBGPeCiW3JUb0MaGSw5aJoNV4Km7hWMuGtoyPBGKKvt3jNqrqFM2F2eOu9GGYL5ndEmZzxEmJEGH8ZKC3owzSWvCFPFFhLxxPXhDd7Hxp0YM1CR-LGTx5sf7K6wXB8vWxOLrqNv1FPYxZ783AcJX5Tpg&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "https://www.tripadvisor.in › Attra..."
+    },
+    {
+      "rank": 3,
+      "absolute": 5,
+      "title": "La Porte Ouverte Chrétienne Reims - Festin de Roi",
+      "website": "YouTube · La Porte Ouverte Reims",
+      "url": "https://google.com/goto?url=CAESaAHEIkXX3fBMwiwKviObS7h4rDVpMPdKpJpS0JlSmF9wZh9vmPL3ZShwjcUeDvemCFxaTtUy-1P3sSwI5K_aG54JsdH321c7RDGc3kgGHgoasl17Xnm70x0fR8agPeB04q4NpOl0GLYm&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "Plus de 600 vues  ·  il y a 2 ans"
+    },
+    {
+      "rank": 4,
+      "absolute": 6,
+      "title": "Vivre par la foi - église Porte Ouverte Chrétienne Reims",
+      "website": "YouTube · La Porte Ouverte Reims",
+      "url": "https://google.com/goto?url=CAESaAHEIkXX6EJmjAZVKBuqlbeACKwo8inJWd-PgK7TPwaQBKOm94c_1e5tUu0W6DhWhJI8dLbKKBxQYqf77VQ8f1NkXJhGikOl19v6h0YT4kWc49mrw84EYT9zRQEbLqob1hfA1Mzgrac9&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "Plus de 350 vues  ·  il y a 2 ans"
+    },
+    {
+      "rank": 5,
+      "absolute": 8,
+      "title": "Association Culturelle Et Sociale Adventiste",
+      "website": "Mappy",
+      "url": "https://google.com/goto?url=CAESbgHEIkXXYbh7GP3IoZCwIBoLtmH_G9ivNzjiIiiien0G9ttYWr9Y56m3g3k-8Q1JGoXkPAaxjgSlyJMb0-xU6qtYUxx9c2DoyhtM81KpsEIC78INcrqUmc85MjrnYGSwDzPXD5u_LTtpMketLZCp&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "https://fr.mappy.com › poi"
+    },
+    {
+      "rank": 6,
+      "absolute": 9,
+      "title": "Eglise Adventiste du Septième Jour, Reims-Tinqueux, 41- ...",
+      "website": "Maptons.com",
+      "url": "https://google.com/goto?url=CAESYAHEIkXX6qIul4a_WqIjiI49pIT6gRCiHJhY1AR4EHVkSbCMTyPzfQaeGcbsUM1P8tYpZ56pR2A3uk32Bf5jCilNf8F6LxhNZUzvKu-Fnh9RhyXP600boazgG2F9a897Yw&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "https://gq.maptons.com › ..."
+    },
+    {
+      "rank": 7,
+      "absolute": 10,
+      "title": "Associations à Reims - Coordonnées et contact",
+      "website": "Annuaire-Mairie",
+      "url": "https://google.com/goto?url=CAESlQEBxCJF1y6l7wkui75Lj9SQgovyUxdyn-BWhsHBkp7gaU28BC7o47TBj6W2dUlg0H5wdOjkEh7aYHX6sQ51AJdJM_xUKsZuPyiKLqrzlmIOlvaTS0JUDQirZK1h07oezSh1nmz0M84oaYnwhTF81wVyd7wN1yZb_cz4lJJBvbN5JMdK7Dqk3HEox085ga4jXOUyt_en1Q&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "https://www.annuaire-mairie.fr › association-activites-re..."
+    },
+    {
+      "rank": 8,
+      "absolute": 11,
+      "title": "ÉGLISE ÉVANGÉLIQUE BAPTISTE DE REIMS",
+      "website": "Églises.org",
+      "url": "https://google.com/goto?url=CAESgQEBxCJF11lFGZ98iho5BWVfzv9WBy6hg79O5pxB-Mh-F3mdD7IOddwc8h0Tq62V7JMX-nyuPJWdaahOrOxbw-SvrhFPRpO7xTRk9iSOe5IOVc8lEqHhJkkSXNCmgAUERnhPMVMbb2bqTd13h98yh2-OZovqJUQc55c9uIek-2pM-7w&gsessionid=rA-bKKG6sG0aOJZYLz8QbDH4UAYJp3_MB1uZFu1Lbpx7_w9JrUK3hg",
+      "breadcrumb": "https://www.eglises.org › eglise › eglise-evangelique-ba..."
+    },
+    {
+      "rank": 9,
+      "absolute": 12,
+      "title": "[En direct ] - Campagne d'évangélisation - Une rencontre ...",
+      "website": "YouTube · Église Adventiste du 7ème jour de REIMS",
+      "url": "https://google.com/goto?url=CAESaAHEIkXXTazQOZhArE3Iqp5vRB5Gx8F_YnyVN8r1YLgoaMmRD-OAFG7pcfsDApxyYKIu5nzXkejGU389GeLL_GMIAs0POK6pk0bgCLSCOi4aHMRyTsV1wH-bSrMbc8qaylM92fgzCBqu&gsessionid=YpXmLSQgmDPXXOAuOZiaNwRv0zNQB_p5eLvdybtBsDdbuzvsctJOiw",
+      "breadcrumb": "Plus de 320 vues  ·  il y a 2 ans"
+    },
+    {
+      "rank": 10,
+      "absolute": 13,
+      "title": "Église évangélique à Reims 51100, France",
+      "website": "Mappy",
+      "url": "https://google.com/goto?url=CAESewHEIkXXGFu6ixK7DiyJ4PS2edMIKjs-bGz1f_7Wa-n0jFFIU1MiJYVxz-JdqGnl1-KF3uiJE6oOMHd_JAv4fhvDu1chhiFR2adYjk7IjOUVR0MsUrbUV3ky_0jUspx5b9Vaddn4rG4pChSpyTbQGlFXNbtmpAIy8M9m5g&gsessionid=YpXmLSQgmDPXXOAuOZiaNwRv0zNQB_p5eLvdybtBsDdbuzvsctJOiw",
+      "breadcrumb": "https://fr.mappy.com › activite › eglises-evangeliques"
+    }
+  ],
+  "maps": [
+    {
+      "type": "knowledge_graph",
+      "title": "Eglise Adventiste du Septième Jour, Reims-Tinqueux",
+      "cid": "17329872390115310897"
+    },
+    {
+      "type": "google_reviews",
+      "cid": "17329872390115310897",
+      "place_id": "ChIJexfsoNl06UcRMT2sBx8TgPA",
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.5,
+        "votes_count": 22,
+        "rating_max": 5
+      },
+      "reviews_count": 22
+    }
+  ]
+}

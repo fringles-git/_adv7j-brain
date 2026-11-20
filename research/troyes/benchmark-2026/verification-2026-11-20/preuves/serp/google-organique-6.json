@@ -1,0 +1,119 @@
+{
+  "city": "Dijon",
+  "query": "église adventiste Dijon",
+  "status": 20000,
+  "error": "Ok.",
+  "status_message": "Ok.",
+  "check_url": "https://www.google.com/search?q=%C3%A9glise%20adventiste%20Dijon&hl=fr&gl=FR&ie=UTF-8&uule=w+CAIQIFISCXWW_e-MnfJHEdBYFLM0zgkE",
+  "datetime": "2026-11-20 09:22:08 +00:00",
+  "location_code": 1005850,
+  "types": [
+    "ai_overview",
+    "organic",
+    "people_also_ask",
+    "google_reviews",
+    "knowledge_graph",
+    "images"
+  ],
+  "org": [
+    {
+      "rank": 1,
+      "absolute": 2,
+      "title": "Concert de Louange à Dijon",
+      "website": "Adventiste FFN",
+      "url": "https://google.com/goto?url=CAESfQHEIkXXEz56lKHRCT2MnAcENMKQbxoFbNf4LKJ9SVP9bJMomPl26ENhM1WNhhhupsd9DK07NTCXl7yQEpBm745NmBSFaUciBGzcNA6KFnXngr7z4SmlThMHzzGDwJo2_MrjrUa5qr_xCNxt92Yzh1TDO-wZrUtUnSe064YX&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://adventisteffn.org › Toutes les actualités"
+    },
+    {
+      "rank": 2,
+      "absolute": 4,
+      "title": "Quel événement attendez-vous avec le plus d'impatience ...",
+      "website": "Instagram · egliseadventistedijon",
+      "url": "https://google.com/goto?url=CAESaAHEIkXXPBpx4RDFmy-LVp6mg2vVedVXYZeFgOJrcv6zCrfjlHTX-uVEjnzzE3aioxPQ_URWE13MpM39gURtWibswhtReq94ngh62iVkQKuqi5de9FBS_rsqZoZjpPRmF8FVSI4vjRcq&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "4 \"J'aime\"  ·  il y a 2 semaines"
+    },
+    {
+      "rank": 3,
+      "absolute": 5,
+      "title": "Lieu de culte à Dijon 21000, France",
+      "website": "Mappy",
+      "url": "https://google.com/goto?url=CAESdAHEIkXXJOf4cG8EbKKIasiiJSZHsQnRGuZGzFLm1QB9AYZRlUU1lx38oYvNptX8QsOu1lfRehydUtpkMXNXKfkPdjMeDlIJK94mZO8vrE4kUyZn46VxMvGD56FRudaY0wBs6F1xZLFuJBx1LmeAsFj72EkK&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://fr.mappy.com › ... › Lieu de culte autour de moi"
+    },
+    {
+      "rank": 4,
+      "absolute": 6,
+      "title": "Eglise Adventiste Le Havre",
+      "website": "Adventiste.org",
+      "url": "https://google.com/goto?url=CAEShwEBxCJF11AKE6OLwRaMYoj3yrPmrp-2JuH4QtHEJkGuIUTwN0NMwb9u-qX6BDozWfAfWuCtE-XQRZsr2csYrQ7uLDEnTAQxFGkqyEqMtGp4LA_78aC8wbU-FwyQJ0YMwPwFqNmcQaB0Yy2b45mW5s0mIDLYKP3SQcnFUBaMtS66rpE68tvW68Q&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://dijon.adventiste.org › Trouver une église"
+    },
+    {
+      "rank": 5,
+      "absolute": 7,
+      "title": "Eglise Adventiste Amiens",
+      "website": "Adventiste.org",
+      "url": "https://google.com/goto?url=CAEShQEBxCJF10D8uQaDUO6vVgmlZMthh3_Cckvkflxe-H34psubDDOtplL8Wwy1gaRW0b5JDzsax2vVejW288LoYT0JXy6VAntqazvD2EH572cgglqtu3qAVauP159wVPyvShJU77NvFqtF6OjuhHWq7HD8SbqTI_g0AdZr8wvvM1b_kV1n6j5K&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://dijon.adventiste.org › Trouver une église"
+    },
+    {
+      "rank": 6,
+      "absolute": 8,
+      "title": "Eglise Adventiste Elancourt",
+      "website": "Adventiste.org",
+      "url": "https://google.com/goto?url=CAESiAEBxCJF153QVhXRDEPA-hMfhD3RKaZXEc4cFKu1XTpFBLZw-nL0vQjHoSJLnqypBcXktjlKEIjjenAyE4q37WyauIUeIWfE9snf72JmIbpUKumPBtC0nMtbvb53t8U5DQY6AZ8yrCOklIl2tbZv3gq9jgdK2Uuue_vBkyTVSXD7_2h3ZVI3glYb&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://dijon.adventiste.org › Trouver une église"
+    },
+    {
+      "rank": 7,
+      "absolute": 9,
+      "title": "églises Archives",
+      "website": "Adventiste FFN",
+      "url": "https://google.com/goto?url=CAESaAHEIkXX5wpwQ3B7kl8lHwNvjnkEVv4f0LIALvAnKEJ00HmEaNo7BTJpRIIYxJ8kZiDMHGE43jpsNftRvkTGl_bo4VbtXDraPbDQAYjD6RphbkJ4cmXAmmOgs_yhq1QHzD2F0XPbyLAL&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://adventisteffn.org › category › eglises"
+    },
+    {
+      "rank": 8,
+      "absolute": 10,
+      "title": "Eglise Adventiste Drancy",
+      "website": "Adventiste.org",
+      "url": "https://google.com/goto?url=CAEShQEBxCJF1wHtXCYTBzDox5_WMsmz0LGHSs7SXa-7fH4D5Xu2gOwFz_NopkrNoGKD6GtwEby8TFxls-MHi02RggD1gA25fPv1CtTCZ-oY5T-s9ySgmWQCcqScX1OELpfc5uOUqf4J6lnmaHES1FGJGJ4MqkSXvmRZ4KT2X-kGdxZW7RDNAPOl&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://dijon.adventiste.org › Trouver une église"
+    },
+    {
+      "rank": 9,
+      "absolute": 11,
+      "title": "Eglise Adventiste Franconville",
+      "website": "Adventiste.org",
+      "url": "https://google.com/goto?url=CAESiwEBxCJF10R6Wv5G6C9obOO8xR9_8FwNZe_J6F4YqeSmocCOaMuUGjCAlIzezTiOGVOP_Sj7FLgtusGEeaNHkm1ML5f4a2uJkmcj0u7Y8imgVY2O-GBuaWYRcxDqDWRyw3mmQfxZIRYsTdga-0yOTQrnYICL2TS9vcJlL0PzhPUyZQtmxlmsMMxlmopN&gsessionid=7OtBrlqkyYZyXwonm4QDULfCIzRAv5bm7dyC_SI4kNV4bgx9rCTQDg",
+      "breadcrumb": "https://dijon.adventiste.org › Trouver une église"
+    },
+    {
+      "rank": 10,
+      "absolute": 12,
+      "title": "Évènements depuis 6 juin 2020",
+      "website": "Adventiste FFN",
+      "url": "https://google.com/goto?url=CAEShQEBxCJF19BhSpIK49fUBrXaaicivAj5-zte3kA_Yw628k3fE4z2Mm9Pe2r-c3OAGvDfIMwxAtjNph2ItVrGgO5InW3awPyZo2I1QRczqdd-3fPo86itpOl_ex08r7L5SJB6TqIAZHyKx1BlomEboUirtZQHUgLK9PmexUkXyGjuuAZ5LGdD&gsessionid=I7ooSL16FDsxZlxyCWoaPiSQkI3vgbFQd2k2Q0ZwLDKO9IFtlsRZHQ",
+      "breadcrumb": "https://adventisteffn.org › agenda › liste › page"
+    }
+  ],
+  "maps": [
+    {
+      "type": "knowledge_graph",
+      "title": "Eglise Chrétienne Adventiste",
+      "cid": "1150612300301951193"
+    },
+    {
+      "type": "google_reviews",
+      "cid": "1150612300301951193",
+      "place_id": "ChIJ8cuGgnae8kcR2WCxecrL9w8",
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.4,
+        "votes_count": 12,
+        "rating_max": 5
+      },
+      "reviews_count": 12
+    }
+  ]
+}

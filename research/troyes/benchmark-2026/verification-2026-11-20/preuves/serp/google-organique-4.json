@@ -1,0 +1,9 @@
+{
+  "city": "Troyes",
+  "query": "protestant Troyes",
+  "error": {
+    "code": "provider_error",
+    "message": "We couldn’t complete this request. Please try again later.",
+    "status": 502
+  }
+}

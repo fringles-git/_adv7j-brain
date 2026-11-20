@@ -1,0 +1,154 @@
+{
+  "city": "Troyes",
+  "query": "culte Troyes",
+  "status": 20000,
+  "error": "Ok.",
+  "status_message": "Ok.",
+  "check_url": "https://www.google.com/search?q=culte%20Troyes&hl=fr&gl=FR&ie=UTF-8&uule=w+CAIQIFISCbG3h-dXmO5HEXVP6GZVEt1X",
+  "datetime": "2026-11-20 09:22:04 +00:00",
+  "location_code": 1005929,
+  "types": [
+    "ai_overview",
+    "local_pack",
+    "compare_sites",
+    "organic",
+    "people_also_ask",
+    "related_searches",
+    "images"
+  ],
+  "org": [
+    {
+      "rank": 1,
+      "absolute": 9,
+      "title": "Autres lieux de culte",
+      "website": "Troyes Champagne Tourisme",
+      "url": "https://google.com/goto?url=CAESmwEBxCJF1ya9_7cziuKldUheLkHmjxHY7IfBT5vx30jbo5IjCuBWT2mVkEQmTk95GV9gs-Cd-BqLVwUeJQFZAcU1FEChSy-Ce-IX1vqhOFXZQFPvn7DRVtWbcglTM0oIDbun8_OSCmoMQJ5DNs7bclJRmyTMSscmywhMtoNvKN0wBhGoo41xI24ke5vaUVgi6Hj7ycNDx2PN8IJIyw&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://www.troyeslachampagne.com › edifices-religieux"
+    },
+    {
+      "rank": 2,
+      "absolute": 11,
+      "title": "Lieu de culte à Troyes 10000, France",
+      "website": "Mappy",
+      "url": "https://google.com/goto?url=CAESdQHEIkXXQQe8Zay7t8s5oKsjGezvfmV5dzXvGKT5HtlEHWT7PFFa3cnvL9WHzLcm0EllisYz7P_zB2vDz01DKp651_CGn0bWZkLP4lWw3dIW1PerGCGSq688xJhl6hT4PtfTUU85mhPwTIxH-a1Np_8V2YFuww&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://fr.mappy.com › ... › Lieu de culte autour de moi"
+    },
+    {
+      "rank": 3,
+      "absolute": 12,
+      "title": "Temple protestant de Troyes",
+      "website": "Wikipédia",
+      "url": "https://google.com/goto?url=CAESdgHEIkXXu7F3MqjLcByUC8zY8sfjrbYy0KtLNA3UGfbfNo5pHQD5rj3EBEYdk6GBkITO-OM2P7ls_LuRc486COJQT6SvxKWnEw9WEqDKqIIOtKMZdNOqb1SBu996KUT55s9coSLL0zZME-Nz7IVECTcVE5bxuSM&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://fr.wikipedia.org › wiki › Temple_protestant_de_..."
+    },
+    {
+      "rank": 4,
+      "absolute": 13,
+      "title": "Le patrimoine religieux et cultuel | Site de la Ville de Troyes",
+      "website": "Ville de Troyes",
+      "url": "https://google.com/goto?url=CAESxQEBxCJF16OKYe3O1CyJXCrDWnnk4l03KHrAWUsYSY48P8X4PBmWB2toFXsaAUcmAsCj4_vAnCTHql2XMisxl8_zZJJG-x9-5jASlWU37A1hZSC95N4saYZSpGXc7Y87q2HJjVw6lFdQnPkNBOTMjCC-mxCmq33xa0hwQ2CBPG1BcxH0VZQNTWtTwEz2Gp6yMLgoBchxlHtuouzSmSR2bsLe4_f9RUSM0GZBZ2NRQEIY3E9GhZuzn6-L4y2XXlgX9hJSjYP4qw&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://www.ville-troyes.fr › decouvrir-troyes › le-patri..."
+    },
+    {
+      "rank": 5,
+      "absolute": 14,
+      "title": "Église évangélique à Troyes (Aube) – Église Harmonia",
+      "website": "Eglise HARMONIA",
+      "url": "https://google.com/goto?url=CAESXAHEIkXXVXu2PkYUsTTLVllQPjl0m4VxKqwvVd0hEnoW-rMiq4jFHCbjRimierbePhRvREV3iwDkwfCbhAMq_Wg1nQU9pMVxIuZlhSUpu8JzSLW6GD6CVRaNJcwP&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://www.eglise-harmonia.fr"
+    },
+    {
+      "rank": 6,
+      "absolute": 15,
+      "title": "Informations - Troyes-et-aube",
+      "website": "EPUdF",
+      "url": "https://google.com/goto?url=CAESawHEIkXXdkZvMDxgWCqhy7xFCZ9ZRwaMk3MO78mihJgcQEqgGuel-kQr35q38Ggb3EEoq8AnO3Qwwv6a_1K-78_XX-QyJeh_G00KkTI4axIwp6wTXXJ6lsBmPqgeolgXUJ2bEBM2qJHdiqaV&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://troyes-et-aube.epudf.org › informations"
+    },
+    {
+      "rank": 7,
+      "absolute": 16,
+      "title": "Église évangélique à Troyes (10)",
+      "website": "PagesJaunes",
+      "url": "https://google.com/goto?url=CAESfwHEIkXXDFbyg-kEKH6hJoNs_T-2uEmRtfCOFkI1eyH-d6bUm40uSpZWwxb9ed9_GCNdOd3PtGipfZDeaMMfk4e768_e_ARsSLxd4hyxZ65s7zHgV3wr0XmvicBMH1v8EMficqXcgkiJNpYCaMqONj7Q9ZwNO2eWl7N2d3i2cME&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://www.pagesjaunes.fr › eglises-evangeliques"
+    },
+    {
+      "rank": 8,
+      "absolute": 17,
+      "title": "Troyes : le temple protestant",
+      "website": "Free",
+      "url": "https://google.com/goto?url=CAESbAHEIkXXCyOJ1ZdMKZrrOTmAfqQ7tRbpFIbvmDvV7MNNmmj3i3JrMS4coPOgqLiJbOCJyVaanU-awmsDMSfFOBWnxP1VC0p-_e0Q1OD7Spt-OuIgquKaC55cc32BWyBBJdkaEMzJbTvnYHlXfg&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "http://huguenotsinfo.free.fr › temples › troyes"
+    },
+    {
+      "rank": 9,
+      "absolute": 18,
+      "title": "Eglise protestante unie de France - Eglise réformée de ...",
+      "website": "Troyes Champagne Tourisme",
+      "url": "https://google.com/goto?url=CAESsQEBxCJF16UfOYDsHupRUC8YgVO9IdiEn_YtN1EtLLrFhjSS2rmGeHmCzpQVDYOHwvICWUG6jpS7wcGs1l32ClAu-liMo5HqwwK4DvH1o4ShV8onto7md-Rt5uWyt9VX1pzW5Qxv0osTu25anlNMe4aJ1xfqs7B9XFxrs8LCgewq2O36a6MlguRn-OuKSK_J__hsYE9H4CnWmHb4LO1ne73PPI5XZ4zAHDuZ9_ZBuIOEzHo&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://www.troyeslachampagne.com › eglise-protestant..."
+    },
+    {
+      "rank": 10,
+      "absolute": 19,
+      "title": "ASSEMBLÉE DE DIEU DE TROYES",
+      "website": "Églises.org",
+      "url": "https://google.com/goto?url=CAESeAHEIkXXuHrYg9ZKrUr3unT6fVejjvzZwE3Pxo52Mr8Tq3I_gQFlDH0FfliFZ0Df98Q5U-pPMcZU35UCOeJKXYBQzF004h8A6qyW3n5an7NwzZneciS-mlY8wiJW0C2eYnvST6C-F8KVYF92dUc2aNs94jaXG5qWFg&gsessionid=ftekLnlwihG1fAXNlx5LoTvXsbk3DkmelmuwN-JZruNkeBkNbrw6xw",
+      "breadcrumb": "https://www.eglises.org › assemblee-de-dieu-de-troyes"
+    }
+  ],
+  "maps": [
+    {
+      "type": "local_pack",
+      "title": "Eglise Protestante Unie de Troyes et Aube",
+      "cid": null,
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.7,
+        "votes_count": 23,
+        "rating_max": 5
+      }
+    },
+    {
+      "type": "local_pack",
+      "title": "Église Sainte-Madeleine",
+      "cid": null,
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.7,
+        "votes_count": 402,
+        "rating_max": 5
+      }
+    },
+    {
+      "type": "local_pack",
+      "title": "Église Saint-Jean-au-Marché de Troyes",
+      "cid": null,
+      "rating": {
+        "rating_type": "Max5",
+        "value": 4.5,
+        "votes_count": 108,
+        "rating_max": 5
+      }
+    },
+    {
+      "type": "local_pack",
+      "title": "Eglise Sainte Madeleine",
+      "cid": null,
+      "rating": null
+    },
+    {
+      "type": "local_pack",
+      "title": "Eglise Saint Urbain",
+      "cid": null,
+      "rating": null
+    },
+    {
+      "type": "local_pack",
+      "title": "Presbytère Notre Dame Des Trévois",
+      "cid": null,
+      "rating": null
+    }
+  ]
+}
