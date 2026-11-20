@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "palette": [
+        {
+          "slug": "creme",
+          "name": "Crème",
+          "color": "#faf9f5"
+        },
+        {
+          "slug": "nuit",
+          "name": "Bleu nuit",
+          "color": "#1f2a3f"
+        },
+        {
+          "slug": "bordeaux",
+          "name": "Bordeaux",
+          "color": "#6a2c35"
+        },
+        {
+          "slug": "or",
+          "name": "Or",
+          "color": "#c49b47"
+        }
+      ]
+    }
+  }
+}
