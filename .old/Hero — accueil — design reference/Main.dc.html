@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Accueil — Église Adventiste de Troyes</title>
+<script src="./vendor/react.js"></script>
+<script src="./vendor/react-dom.js"></script>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&amp;family=Outfit:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;background:#FAF7F2}
+a{color:#2C3E50}a:hover{color:#7B2D3E}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,0.95fr);gap:64px;align-items:stretch}
+.hero-photo{min-height:640px}
+.info-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0}
+.info-cell + .info-cell{border-left:1px solid #D9CDB8;padding-left:28px}
+.nav-links{display:flex}
+.nav-menu{display:none}
+.hero-actions a.primary:hover{filter:brightness(1.12)}
+.hero-actions a.secondary:hover{color:#7B2D3E}
+@media (max-width: 900px){
+  .hero-grid{grid-template-columns:minmax(0,1fr);gap:32px}
+  .hero-photo{order:-1;min-height:300px}
+  .hero-wrap{padding:16px 16px 48px !important}
+  .hero-h1{font-size:44px !important}
+  .nav-links{display:none}
+  .nav-menu{display:inline-flex}
+}
+@media (max-width: 520px){
+  .info-row{grid-template-columns:minmax(0,1fr)}
+  .info-cell + .info-cell{border-left:0;padding-left:0;border-top:1px solid #D9CDB8;padding-top:20px;margin-top:20px}
+  .hero-actions{flex-direction:column;align-items:stretch !important}
+  .hero-actions a.primary{justify-content:center}
+}
+</style>
+</helmet>
+
+<div style="font-family: 'Outfit', system-ui, sans-serif; color: #2C3E50; background: #FAF7F2; min-height: 100vh; box-sizing: border-box;">
+
+  <header style="max-width: 1360px; margin: 0 auto; padding: 24px 40px; display: flex; align-items: center; justify-content: space-between; gap: 24px; box-sizing: border-box;">
+    <a href="#" style="display: flex; align-items: center; gap: 12px; text-decoration: none; color: #2C3E50;">
+      <svg width="28" height="34" viewBox="0 0 28 34" fill="none" stroke="#C8922A" stroke-width="1.6" aria-hidden="true"><path d="M2 33V14C2 7 7.5 2 14 2s12 5 12 12v19"></path><path d="M14 2v31"></path><path d="M2 20h24"></path></svg>
+      <span style="display: flex; flex-direction: column; line-height: 1.1;">
+        <span style="font-family: 'Cormorant Garamond', serif; font-size: 22px; font-weight: 600;">Église Adventiste</span>
+        <span style="font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: #5B6B7A;">Troyes</span>
+      </span>
+    </a>
+    <nav class="nav-links" aria-label="Navigation principale" style="gap: 32px; font-size: 15px;">
+      <a href="/visiter" style="text-decoration: none;">Visiter</a>
+      <a href="/programme" style="text-decoration: none;">Programme</a>
+      <a href="/croyances" style="text-decoration: none;">Croyances</a>
+      <a href="/medias" style="text-decoration: none;">Médias</a>
+      <a href="/contact" style="text-decoration: none;">Contact</a>
+    </nav>
+    <button class="nav-menu" type="button" aria-label="Ouvrir le menu" style="width: 44px; height: 44px; align-items: center; justify-content: center; background: transparent; border: 1px solid #D9CDB8; border-radius: 10px; color: #2C3E50; cursor: pointer;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>
+    </button>
+  </header>
+
+  <section class="hero-wrap" aria-labelledby="hero-title" style="max-width: 1360px; margin: 0 auto; padding: 24px 40px 72px; box-sizing: border-box;">
+    <div class="hero-grid">
+
+      <div style="display: flex; flex-direction: column; justify-content: center; gap: 36px; padding: 24px 0;">
+        <div style="display: flex; flex-direction: column; gap: 20px;">
+          <p style="margin: 0; font-size: 13px; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: #8A5F12;">Église Adventiste du Septième Jour</p>
+          <h1 id="hero-title" class="hero-h1" style="margin: 0; font-family: 'Cormorant Garamond', serif; font-weight: 500; font-size: 68px; line-height: 1.02; letter-spacing: -0.01em; color: #2C3E50;">Le sabbat, ensemble,<br><em style="font-style: italic; color: #7B2D3E;">au cœur de Troyes.</em></h1>
+          <p style="margin: 0; max-width: 500px; font-size: 18px; line-height: 1.6; font-weight: 300; color: #3D4F60;">Une communauté chrétienne protestante qui se retrouve chaque samedi, le septième jour, pour ouvrir la Bible, chanter et prier. Venez tel que vous êtes&nbsp;: une place vous attend.</p>
+        </div>
+
+        <div style="background: #FFFFFF; border: 1px solid #E8DFCF; border-radius: 16px; padding: 24px 28px; max-width: 540px; box-sizing: border-box;">
+          <div class="info-row">
+            <div class="info-cell" style="display: flex; flex-direction: column; gap: 8px; padding-right: 28px;">
+              <span style="font-size: 12px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A5F12;">Chaque samedi</span>
+              <span style="display: flex; align-items: baseline; gap: 10px;"><span style="font-family: 'Cormorant Garamond', serif; font-size: 28px; font-weight: 600; min-width: 64px;">9h45</span><span style="font-size: 15px; color: #3D4F60;">École du Sabbat</span></span>
+              <span style="display: flex; align-items: baseline; gap: 10px;"><span style="font-family: 'Cormorant Garamond', serif; font-size: 28px; font-weight: 600; min-width: 64px;">11h00</span><span style="font-size: 15px; color: #3D4F60;">Culte</span></span>
+              <span style="font-size: 13px; color: #5B6B7A;">Fin vers 12h30–13h</span>
+            </div>
+            <div class="info-cell" style="display: flex; flex-direction: column; gap: 8px;">
+              <span style="font-size: 12px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A5F12;">Où nous trouver</span>
+              <address style="font-style: normal; font-size: 16px; line-height: 1.5; color: #2C3E50;">40 boulevard Jules Guesde<br>10000 Troyes</address>
+              <span style="display: flex; align-items: center; gap: 8px; font-size: 13px; color: #3D4F60;"><span style="display: inline-flex; align-items: center; justify-content: center; min-width: 22px; height: 22px; padding: 0 6px; border-radius: 6px; background: rgb(168, 95, 62); color: #FFFFFF; font-size: 12px; font-weight: 600; box-sizing: border-box;">3</span>Pont Blanc · 3 min à pied</span>
+              <span style="display: flex; align-items: center; gap: 6px; font-size: 13px; color: #5B6B7A;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"></path></svg>Accès fauteuil · Parking devant l'église</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-actions" style="display: flex; align-items: center; gap: 28px; flex-wrap: wrap;">
+          <a class="primary" href="/visiter" style="display: inline-flex; align-items: center; gap: 10px; min-height: 52px; padding: 0 28px; border-radius: 999px; background: {{accent}}; color: #FFFFFF; font-size: 16px; font-weight: 500; text-decoration: none; box-sizing: border-box;">
+            Préparer ma visite
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>
+          </a>
+          <sc-if value="{{showSecondary}}" hint-placeholder-val="{{ true }}">
+            <a class="secondary" href="/programme#en-ligne" style="display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-size: 15px; font-weight: 500; color: #2C3E50; text-decoration: underline; text-underline-offset: 5px; text-decoration-color: #C8922A;">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="6" width="13" height="12" rx="2"></rect><path d="M16 10.5l5-3v9l-5-3z"></path></svg>
+              Prier avec nous en ligne, mardi et mercredi
+            </a>
+          </sc-if>
+        </div>
+      </div>
+
+      <figure class="hero-photo" style="margin: 0; position: relative; border-radius: 360px 360px 20px 20px; overflow: hidden; background: #2C3E50; display: flex; align-items: flex-end;">
+        <svg viewBox="0 0 400 600" preserveAspectRatio="xMidYMid slice" aria-hidden="true" style="position: absolute; inset: 0; width: 100%; height: 100%;">
+          <g fill="none" stroke="#C8922A" stroke-opacity="0.22" stroke-width="1.2">
+            <path d="M70 600V250C70 190 100 150 130 130C160 150 190 190 190 250V600"></path>
+            <path d="M210 600V250C210 190 240 150 270 130C300 150 330 190 330 250V600"></path>
+            <path d="M130 130V600M270 130V600M70 360H190M210 360H330M70 470H190M210 470H330"></path>
+            <circle cx="200" cy="70" r="38"></circle>
+            <path d="M200 32V108M162 70H238M173 43L227 97M227 43L173 97"></path>
+          </g>
+        </svg>
+        <figcaption style="position: relative; margin: 24px; padding: 14px 18px; background: rgba(250,247,242,0.94); border-radius: 12px; font-size: 13px; line-height: 1.5; color: #2C3E50; max-width: 340px;">
+          <strong style="font-weight: 600;">[Photo à placer]</strong> Façade de l'église ou assemblée pendant le culte, en lumière naturelle. Format portrait, sujet centré.
+        </figcaption>
+      </figure>
+
+    </div>
+  </section>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"accent":{"editor":"color","default":"#7B2D3E","options":["#7B2D3E","#2C3E50","#8A5F12"]},"showSecondary":{"editor":"boolean","default":true},"$preview":{"width":1440,"height":860}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      accent: this.props.accent ?? '#7B2D3E',
+      showSecondary: this.props.showSecondary ?? true
+    };
+  }
+}
+</script>
+</body>
+</html>
